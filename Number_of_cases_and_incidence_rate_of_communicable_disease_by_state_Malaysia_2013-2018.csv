@@ -1,0 +1,2385 @@
+Year,State,Communicable diseases,Number,Rate
+2013,Johor,Cholera,,
+2013,Johor,Dengue fever,4750,136.6
+2013,Johor,Dengue haemorrhagic fever,78,2.24
+2013,Johor,Dysentry ,1,0.03
+2013,Johor,Food poisoning,1447,41.61
+2013,Johor,Hepatitis A,2,0.06
+2013,Johor,Hepatitis B,168,4.83
+2013,Johor,Hepatitis C,150,4.31
+2013,Johor,Leprosy,12,0.35
+2013,Johor,Measles,9,0.26
+2013,Johor,Neonatal Tetanus ,,
+2013,Johor,Other Specified Viral,,
+2013,Johor,Other Tetanus,,
+2013,Johor,Tuberculosis,2163,62.21
+2013,Johor,Typhoid,15,0.43
+2013,Johor,Viral encephalitis,,
+2013,Johor,Whooping cough,4,0.12
+2013,Kedah,Cholera,,
+2013,Kedah,Dengue fever,808,39.98
+2013,Kedah,Dengue haemorrhagic fever,5,0.25
+2013,Kedah,Dysentry ,8,0.4
+2013,Kedah,Food poisoning,1115,55.17
+2013,Kedah,Hepatitis A,1,0.05
+2013,Kedah,Hepatitis B,81,4.01
+2013,Kedah,Hepatitis C,261,12.91
+2013,Kedah,Leprosy,10,0.49
+2013,Kedah,Measles,4,0.2
+2013,Kedah,Neonatal Tetanus ,,
+2013,Kedah,Other Specified Viral,,
+2013,Kedah,Other Tetanus,8,0.4
+2013,Kedah,Tuberculosis,1142,56.5
+2013,Kedah,Typhoid,6,0.3
+2013,Kedah,Viral encephalitis,,
+2013,Kedah,Whooping cough,35,1.73
+2013,Kelantan,Cholera,1,0.06
+2013,Kelantan,Dengue fever,1411,84.7
+2013,Kelantan,Dengue haemorrhagic fever,16,0.96
+2013,Kelantan,Dysentry ,3,0.18
+2013,Kelantan,Food poisoning,1137,68.25
+2013,Kelantan,Hepatitis A,3,0.18
+2013,Kelantan,Hepatitis B,129,7.74
+2013,Kelantan,Hepatitis C,200,12.01
+2013,Kelantan,Leprosy,10,0.6
+2013,Kelantan,Measles,45,2.7
+2013,Kelantan,Neonatal Tetanus ,,
+2013,Kelantan,Other Specified Viral,14,0.84
+2013,Kelantan,Other Tetanus,1,0.06
+2013,Kelantan,Tuberculosis,1382,82.96
+2013,Kelantan,Typhoid,42,2.52
+2013,Kelantan,Viral encephalitis,,
+2013,Kelantan,Whooping cough,12,0.72
+2013,Malaysia,Cholera,171,0.58
+2013,Malaysia,Dengue fever,42572,143.27
+2013,Malaysia,Dengue haemorrhagic fever,774,2.6
+2013,Malaysia,Dysentry ,83,0.28
+2013,Malaysia,Food poisoning,14202,47.79
+2013,Malaysia,Hepatitis A,121,0.41
+2013,Malaysia,Hepatitis B,3421,11.51
+2013,Malaysia,Hepatitis C,2011,6.77
+2013,Malaysia,Leprosy,306,1.03
+2013,Malaysia,Measles,195,0.66
+2013,Malaysia,Neonatal Tetanus ,6,0.01
+2013,Malaysia,Other Specified Viral,171,0.58
+2013,Malaysia,Other Tetanus,26,0.09
+2013,Malaysia,Tuberculosis,23262,78.28
+2013,Malaysia,Typhoid,218,0.73
+2013,Malaysia,Viral encephalitis,16,0.05
+2013,Malaysia,Whooping cough,222,0.75
+2013,Melaka,Cholera,,
+2013,Melaka,Dengue fever,1423,166.94
+2013,Melaka,Dengue haemorrhagic fever,82,9.62
+2013,Melaka,Dysentry ,,
+2013,Melaka,Food poisoning,705,82.71
+2013,Melaka,Hepatitis A,2,0.23
+2013,Melaka,Hepatitis B,145,17.01
+2013,Melaka,Hepatitis C,305,35.78
+2013,Melaka,Leprosy,5,0.59
+2013,Melaka,Measles,4,0.47
+2013,Melaka,Neonatal Tetanus ,,
+2013,Melaka,Other Specified Viral,,
+2013,Melaka,Other Tetanus,,
+2013,Melaka,Tuberculosis,541,63.47
+2013,Melaka,Typhoid,,
+2013,Melaka,Viral encephalitis,,
+2013,Melaka,Whooping cough,6,0.7
+2013,Negeri Sembilan,Cholera,,
+2013,Negeri Sembilan,Dengue fever,1193,111.48
+2013,Negeri Sembilan,Dengue haemorrhagic fever,5,0.47
+2013,Negeri Sembilan,Dysentry ,,
+2013,Negeri Sembilan,Food poisoning,450,42.05
+2013,Negeri Sembilan,Hepatitis A,1,0.09
+2013,Negeri Sembilan,Hepatitis B,60,5.61
+2013,Negeri Sembilan,Hepatitis C,64,5.98
+2013,Negeri Sembilan,Leprosy,6,0.56
+2013,Negeri Sembilan,Measles,1,0.09
+2013,Negeri Sembilan,Neonatal Tetanus ,,
+2013,Negeri Sembilan,Other Specified Viral,2,0.19
+2013,Negeri Sembilan,Other Tetanus,2,0.19
+2013,Negeri Sembilan,Tuberculosis,553,51.68
+2013,Negeri Sembilan,Typhoid,6,0.56
+2013,Negeri Sembilan,Viral encephalitis,,
+2013,Negeri Sembilan,Whooping cough,5,0.47
+2013,Pahang,Cholera,,
+2013,Pahang,Dengue fever,721,45.84
+2013,Pahang,Dengue haemorrhagic fever,4,0.25
+2013,Pahang,Dysentry ,7,0.45
+2013,Pahang,Food poisoning,501,31.86
+2013,Pahang,Hepatitis A,6,0.38
+2013,Pahang,Hepatitis B,323,20.54
+2013,Pahang,Hepatitis C,253,16.09
+2013,Pahang,Leprosy,19,1.21
+2013,Pahang,Measles,,
+2013,Pahang,Neonatal Tetanus ,,
+2013,Pahang,Other Specified Viral,,
+2013,Pahang,Other Tetanus,1,0.06
+2013,Pahang,Tuberculosis,867,55.13
+2013,Pahang,Typhoid,4,0.25
+2013,Pahang,Viral encephalitis,,
+2013,Pahang,Whooping cough,12,0.76
+2013,Perak,Cholera,,
+2013,Perak,Dengue fever,2501,102.65
+2013,Perak,Dengue haemorrhagic fever,18,0.74
+2013,Perak,Dysentry ,4,0.16
+2013,Perak,Food poisoning,1746,71.66
+2013,Perak,Hepatitis A,63,2.59
+2013,Perak,Hepatitis B,76,3.12
+2013,Perak,Hepatitis C,107,4.39
+2013,Perak,Leprosy,19,0.78
+2013,Perak,Measles,6,0.25
+2013,Perak,Neonatal Tetanus ,,
+2013,Perak,Other Specified Viral,4,0.16
+2013,Perak,Other Tetanus,,
+2013,Perak,Tuberculosis,1548,63.54
+2013,Perak,Typhoid,6,0.25
+2013,Perak,Viral encephalitis,,
+2013,Perak,Whooping cough,8,0.33
+2013,Perlis,Cholera,,
+2013,Perlis,Dengue fever,223,92.38
+2013,Perlis,Dengue haemorrhagic fever,3,1.24
+2013,Perlis,Dysentry ,5,2.07
+2013,Perlis,Food poisoning,182,75.39
+2013,Perlis,Hepatitis A,,
+2013,Perlis,Hepatitis B,13,5.39
+2013,Perlis,Hepatitis C,94,38.94
+2013,Perlis,Leprosy,,
+2013,Perlis,Measles,1,0.41
+2013,Perlis,Neonatal Tetanus ,,
+2013,Perlis,Other Specified Viral,,
+2013,Perlis,Other Tetanus,,
+2013,Perlis,Tuberculosis,155,64.21
+2013,Perlis,Typhoid,3,1.24
+2013,Perlis,Viral encephalitis,,
+2013,Perlis,Whooping cough,8,3.31
+2013,Pulau Pinang,Cholera,,
+2013,Pulau Pinang,Dengue fever,1009,61.96
+2013,Pulau Pinang,Dengue haemorrhagic fever,44,2.7
+2013,Pulau Pinang,Dysentry ,1,0.06
+2013,Pulau Pinang,Food poisoning,556,34.14
+2013,Pulau Pinang,Hepatitis A,,
+2013,Pulau Pinang,Hepatitis B,22,1.35
+2013,Pulau Pinang,Hepatitis C,44,2.7
+2013,Pulau Pinang,Leprosy,5,0.31
+2013,Pulau Pinang,Measles,1,0.06
+2013,Pulau Pinang,Neonatal Tetanus ,1,0.05
+2013,Pulau Pinang,Other Specified Viral,,
+2013,Pulau Pinang,Other Tetanus,,
+2013,Pulau Pinang,Tuberculosis,1254,77.01
+2013,Pulau Pinang,Typhoid,9,0.55
+2013,Pulau Pinang,Viral encephalitis,4,0.25
+2013,Pulau Pinang,Whooping cough,6,0.37
+2013,Sabah,Cholera,166,4.84
+2013,Sabah,Dengue fever,699,20.39
+2013,Sabah,Dengue haemorrhagic fever,25,0.73
+2013,Sabah,Dysentry ,5,0.15
+2013,Sabah,Food poisoning,2044,59.63
+2013,Sabah,Hepatitis A,22,0.64
+2013,Sabah,Hepatitis B,1346,39.26
+2013,Sabah,Hepatitis C,46,1.34
+2013,Sabah,Leprosy,107,3.12
+2013,Sabah,Measles,3,0.09
+2013,Sabah,Neonatal Tetanus ,4,0.07
+2013,Sabah,Other Specified Viral,134,3.91
+2013,Sabah,Other Tetanus,8,0.23
+2013,Sabah,Tuberculosis,4456,129.99
+2013,Sabah,Typhoid,54,1.58
+2013,Sabah,Viral encephalitis,2,0.06
+2013,Sabah,Whooping cough,9,0.26
+2013,Sarawak,Cholera,,
+2013,Sarawak,Dengue fever,1275,49.5
+2013,Sarawak,Dengue haemorrhagic fever,17,0.66
+2013,Sarawak,Dysentry ,14,0.54
+2013,Sarawak,Food poisoning,1141,44.3
+2013,Sarawak,Hepatitis A,2,0.08
+2013,Sarawak,Hepatitis B,166,6.45
+2013,Sarawak,Hepatitis C,90,3.49
+2013,Sarawak,Leprosy,41,1.59
+2013,Sarawak,Measles,11,0.43
+2013,Sarawak,Neonatal Tetanus ,,
+2013,Sarawak,Other Specified Viral,4,0.16
+2013,Sarawak,Other Tetanus,4,0.16
+2013,Sarawak,Tuberculosis,2604,101.11
+2013,Sarawak,Typhoid,15,0.58
+2013,Sarawak,Viral encephalitis,8,0.31
+2013,Sarawak,Whooping cough,31,1.2
+2013,Selangor,Cholera,1,0.02
+2013,Selangor,Dengue fever,23512,410.67
+2013,Selangor,Dengue haemorrhagic fever,340,5.94
+2013,Selangor,Dysentry ,25,0.44
+2013,Selangor,Food poisoning,2150,37.55
+2013,Selangor,Hepatitis A,14,0.24
+2013,Selangor,Hepatitis B,578,10.1
+2013,Selangor,Hepatitis C,182,3.18
+2013,Selangor,Leprosy,48,0.84
+2013,Selangor,Measles,83,1.45
+2013,Selangor,Neonatal Tetanus ,,
+2013,Selangor,Other Specified Viral,5,0.09
+2013,Selangor,Other Tetanus,1,0.02
+2013,Selangor,Tuberculosis,4016,70.14
+2013,Selangor,Typhoid,45,0.79
+2013,Selangor,Viral encephalitis,,
+2013,Selangor,Whooping cough,48,0.84
+2013,Terengganu,Cholera,,
+2013,Terengganu,Dengue fever,546,49.08
+2013,Terengganu,Dengue haemorrhagic fever,54,4.85
+2013,Terengganu,Dysentry ,3,0.27
+2013,Terengganu,Food poisoning,582,52.31
+2013,Terengganu,Hepatitis A,,
+2013,Terengganu,Hepatitis B,66,5.93
+2013,Terengganu,Hepatitis C,153,13.75
+2013,Terengganu,Leprosy,6,0.54
+2013,Terengganu,Measles,5,0.45
+2013,Terengganu,Neonatal Tetanus ,,
+2013,Terengganu,Other Specified Viral,1,0.09
+2013,Terengganu,Other Tetanus,,
+2013,Terengganu,Tuberculosis,733,65.89
+2013,Terengganu,Typhoid,2,0.18
+2013,Terengganu,Viral encephalitis,2,0.18
+2013,Terengganu,Whooping cough,29,2.61
+2013,W.P. Kuala Lumpur,Cholera,3,0.17
+2013,W.P. Kuala Lumpur,Dengue fever,2489,137.17
+2013,W.P. Kuala Lumpur,Dengue haemorrhagic fever,81,4.46
+2013,W.P. Kuala Lumpur,Dysentry ,7,0.39
+2013,W.P. Kuala Lumpur,Food poisoning,446,24.58
+2013,W.P. Kuala Lumpur,Hepatitis A,5,0.28
+2013,W.P. Kuala Lumpur,Hepatitis B,223,12.29
+2013,W.P. Kuala Lumpur,Hepatitis C,60,3.31
+2013,W.P. Kuala Lumpur,Leprosy,17,0.94
+2013,W.P. Kuala Lumpur,Measles,22,1.21
+2013,W.P. Kuala Lumpur,Neonatal Tetanus ,,
+2013,W.P. Kuala Lumpur,Other Specified Viral,7,0.39
+2013,W.P. Kuala Lumpur,Other Tetanus,1,0.06
+2013,W.P. Kuala Lumpur,Tuberculosis,1749,96.39
+2013,W.P. Kuala Lumpur,Typhoid,7,0.39
+2013,W.P. Kuala Lumpur,Viral encephalitis,,
+2013,W.P. Kuala Lumpur,Whooping cough,9,0.5
+2013,W.P. Labuan,Cholera,,
+2013,W.P. Labuan,Dengue fever,12,12.86
+2013,W.P. Labuan,Dengue haemorrhagic fever,2,2.14
+2013,W.P. Labuan,Dysentry ,,
+2013,W.P. Labuan,Food poisoning,,
+2013,W.P. Labuan,Hepatitis A,,
+2013,W.P. Labuan,Hepatitis B,25,26.8
+2013,W.P. Labuan,Hepatitis C,2,2.14
+2013,W.P. Labuan,Leprosy,1,1.07
+2013,W.P. Labuan,Measles,,
+2013,W.P. Labuan,Neonatal Tetanus ,1,0.57
+2013,W.P. Labuan,Other Specified Viral,,
+2013,W.P. Labuan,Other Tetanus,,
+2013,W.P. Labuan,Tuberculosis,99,106.11
+2013,W.P. Labuan,Typhoid,4,4.29
+2013,W.P. Labuan,Viral encephalitis,,
+2013,W.P. Labuan,Whooping cough,,
+2014,Johor,A.I.D.S,215,6.12
+2014,Johor,Cholera,,
+2014,Johor,Dengue fever,6278,178.59
+2014,Johor,Dengue haemorrhagic fever,45,1.28
+2014,Johor,Diphteria,,
+2014,Johor,Dysentry ,1,0.03
+2014,Johor,Food poisoning,2099,59.71
+2014,Johor,Gonorrhoea,170,4.84
+2014,Johor,H.I.V,392,11.15
+2014,Johor,"Hand, Foot and Mouth Disease",2248,63.95
+2014,Johor,Hepatitis A,5,0.14
+2014,Johor,Hepatitis B,230,0.54
+2014,Johor,Hepatitis C,139,3.95
+2014,Johor,Leprosy,9,0.26
+2014,Johor,Leptospirosis,387,11.01
+2014,Johor,Malaria,42,1.19
+2014,Johor,Measles,9,0.26
+2014,Johor,Neonatal Tetanus ,,
+2014,Johor,Other Specified Viral,,
+2014,Johor,Other Tetanus,4,0.11
+2014,Johor,Syphillis,133,3.78
+2014,Johor,Tuberculosis,2290,65.14
+2014,Johor,Typhoid,14,0.4
+2014,Johor,Typhus,,
+2014,Johor,Viral encephalitis,,
+2014,Johor,Whooping cough,8,0.23
+2014,Kedah,A.I.D.S,62,3.03
+2014,Kedah,Cholera,,
+2014,Kedah,Dengue fever,999,48.82
+2014,Kedah,Dengue haemorrhagic fever,15,0.73
+2014,Kedah,Diphteria,1,0.05
+2014,Kedah,Dysentry ,10,0.49
+2014,Kedah,Food poisoning,1214,59.33
+2014,Kedah,Gonorrhoea,63,3.08
+2014,Kedah,H.I.V,172,8.41
+2014,Kedah,"Hand, Foot and Mouth Disease",976,47.7
+2014,Kedah,Hepatitis A,3,0.15
+2014,Kedah,Hepatitis B,74,3.62
+2014,Kedah,Hepatitis C,232,11.34
+2014,Kedah,Leprosy,12,0.59
+2014,Kedah,Leptospirosis,699,34.16
+2014,Kedah,Malaria,19,0.93
+2014,Kedah,Measles,4,0.2
+2014,Kedah,Neonatal Tetanus ,,
+2014,Kedah,Other Specified Viral,1,0.05
+2014,Kedah,Other Tetanus,1,0.05
+2014,Kedah,Syphillis,57,2.79
+2014,Kedah,Tuberculosis,1301,63.58
+2014,Kedah,Typhoid,18,0.88
+2014,Kedah,Typhus,,
+2014,Kedah,Viral encephalitis,1,0.05
+2014,Kedah,Whooping cough,77,3.76
+2014,Kelantan,A.I.D.S,90,5.32
+2014,Kelantan,Cholera,,
+2014,Kelantan,Dengue fever,14419,852.24
+2014,Kelantan,Dengue haemorrhagic fever,37,2.19
+2014,Kelantan,Diphteria,,
+2014,Kelantan,Dysentry ,,
+2014,Kelantan,Food poisoning,424,25.06
+2014,Kelantan,Gonorrhoea,28,1.65
+2014,Kelantan,H.I.V,227,13.42
+2014,Kelantan,"Hand, Foot and Mouth Disease",668,39.48
+2014,Kelantan,Hepatitis A,1,0.06
+2014,Kelantan,Hepatitis B,129,7.62
+2014,Kelantan,Hepatitis C,195,11.53
+2014,Kelantan,Leprosy,12,0.71
+2014,Kelantan,Leptospirosis,1030,60.88
+2014,Kelantan,Malaria,129,7.62
+2014,Kelantan,Measles,22,1.3
+2014,Kelantan,Neonatal Tetanus ,,
+2014,Kelantan,Other Specified Viral,16,0.95
+2014,Kelantan,Other Tetanus,,
+2014,Kelantan,Syphillis,29,1.71
+2014,Kelantan,Tuberculosis,1366,80.74
+2014,Kelantan,Typhoid,35,2.07
+2014,Kelantan,Typhus,,
+2014,Kelantan,Viral encephalitis,1,0.06
+2014,Kelantan,Whooping cough,15,0.89
+2014,Malaysia,A.I.D.S,1149,3.82
+2014,Malaysia,Cholera,134,0.45
+2014,Malaysia,Dengue fever,107597,357.49
+2014,Malaysia,Dengue haemorrhagic fever,1101,3.66
+2014,Malaysia,Diphteria,2,0.01
+2014,Malaysia,Dysentry ,80,0.27
+2014,Malaysia,Food poisoning,17651,58.65
+2014,Malaysia,Gonorrhoea,1769,5.88
+2014,Malaysia,H.I.V,3517,11.69
+2014,Malaysia,"Hand, Foot and Mouth Disease",31322,104.07
+2014,Malaysia,Hepatitis A,63,0.21
+2014,Malaysia,Hepatitis B,3896,12.94
+2014,Malaysia,Hepatitis C,2196,7.3
+2014,Malaysia,Leprosy,308,1.02
+2014,Malaysia,Leptospirosis,7806,25.94
+2014,Malaysia,Malaria,3923,13.03
+2014,Malaysia,Measles,221,0.73
+2014,Malaysia,Neonatal Tetanus ,8,0.02
+2014,Malaysia,Other Specified Viral,113,0.38
+2014,Malaysia,Other Tetanus,14,0.05
+2014,Malaysia,Syphillis,1689,5.61
+2014,Malaysia,Tuberculosis,24711,82.1
+2014,Malaysia,Typhoid,212,0.7
+2014,Malaysia,Typhus,2,0.01
+2014,Malaysia,Viral encephalitis,48,0.16
+2014,Malaysia,Whooping cough,497,1.65
+2014,Melaka,A.I.D.S,49,5.68
+2014,Melaka,Cholera,,
+2014,Melaka,Dengue fever,2722,315.59
+2014,Melaka,Dengue haemorrhagic fever,48,5.57
+2014,Melaka,Diphteria,,
+2014,Melaka,Dysentry ,,
+2014,Melaka,Food poisoning,441,51.13
+2014,Melaka,Gonorrhoea,62,7.19
+2014,Melaka,H.I.V,138,16
+2014,Melaka,"Hand, Foot and Mouth Disease",792,91.83
+2014,Melaka,Hepatitis A,,
+2014,Melaka,Hepatitis B,137,15.88
+2014,Melaka,Hepatitis C,228,26.43
+2014,Melaka,Leprosy,3,0.35
+2014,Melaka,Leptospirosis,141,16.35
+2014,Melaka,Malaria,10,1.16
+2014,Melaka,Measles,1,0.12
+2014,Melaka,Neonatal Tetanus ,,
+2014,Melaka,Other Specified Viral,,
+2014,Melaka,Other Tetanus,,
+2014,Melaka,Syphillis,41,4.75
+2014,Melaka,Tuberculosis,659,76.41
+2014,Melaka,Typhoid,1,0.12
+2014,Melaka,Typhus,,
+2014,Melaka,Viral encephalitis,1,0.012
+2014,Melaka,Whooping cough,22,2.55
+2014,Negeri Sembilan,A.I.D.S,47,4.34
+2014,Negeri Sembilan,Cholera,,
+2014,Negeri Sembilan,Dengue fever,3767,347.48
+2014,Negeri Sembilan,Dengue haemorrhagic fever,14,1.29
+2014,Negeri Sembilan,Diphteria,,
+2014,Negeri Sembilan,Dysentry ,1,0.09
+2014,Negeri Sembilan,Food poisoning,1383,127.57
+2014,Negeri Sembilan,Gonorrhoea,33,3.04
+2014,Negeri Sembilan,H.I.V,105,9.69
+2014,Negeri Sembilan,"Hand, Foot and Mouth Disease",1011,93.26
+2014,Negeri Sembilan,Hepatitis A,2,0.18
+2014,Negeri Sembilan,Hepatitis B,87,8.03
+2014,Negeri Sembilan,Hepatitis C,105,9.69
+2014,Negeri Sembilan,Leprosy,8,0.74
+2014,Negeri Sembilan,Leptospirosis,302,27.86
+2014,Negeri Sembilan,Malaria,32,2.95
+2014,Negeri Sembilan,Measles,1,0.09
+2014,Negeri Sembilan,Neonatal Tetanus ,,
+2014,Negeri Sembilan,Other Specified Viral,,
+2014,Negeri Sembilan,Other Tetanus,,
+2014,Negeri Sembilan,Syphillis,56,5.17
+2014,Negeri Sembilan,Tuberculosis,680,62.72
+2014,Negeri Sembilan,Typhoid,5,0.46
+2014,Negeri Sembilan,Typhus,,
+2014,Negeri Sembilan,Viral encephalitis,3,0.28
+2014,Negeri Sembilan,Whooping cough,36,3.32
+2014,Pahang,A.I.D.S,138,8.64
+2014,Pahang,Cholera,,
+2014,Pahang,Dengue fever,2157,135.01
+2014,Pahang,Dengue haemorrhagic fever,13,0.81
+2014,Pahang,Diphteria,,
+2014,Pahang,Dysentry ,5,0.31
+2014,Pahang,Food poisoning,819,51.26
+2014,Pahang,Gonorrhoea,115,7.2
+2014,Pahang,H.I.V,215,13.46
+2014,Pahang,"Hand, Foot and Mouth Disease",233,14.58
+2014,Pahang,Hepatitis A,4,0.25
+2014,Pahang,Hepatitis B,217,13.58
+2014,Pahang,Hepatitis C,332,20.78
+2014,Pahang,Leprosy,45,2.82
+2014,Pahang,Leptospirosis,288,18.03
+2014,Pahang,Malaria,128,8.01
+2014,Pahang,Measles,3,0.19
+2014,Pahang,Neonatal Tetanus ,,
+2014,Pahang,Other Specified Viral,,
+2014,Pahang,Other Tetanus,,
+2014,Pahang,Syphillis,69,4.32
+2014,Pahang,Tuberculosis,917,57.4
+2014,Pahang,Typhoid,1,0.06
+2014,Pahang,Typhus,,
+2014,Pahang,Viral encephalitis,1,0.06
+2014,Pahang,Whooping cough,14,0.88
+2014,Perak,A.I.D.S,70,2.85
+2014,Perak,Cholera,,
+2014,Perak,Dengue fever,7479,304.43
+2014,Perak,Dengue haemorrhagic fever,46,1.87
+2014,Perak,Diphteria,,
+2014,Perak,Dysentry ,12,0.49
+2014,Perak,Food poisoning,1670,67.98
+2014,Perak,Gonorrhoea,15,0.61
+2014,Perak,H.I.V,156,6.35
+2014,Perak,"Hand, Foot and Mouth Disease",1655,67.37
+2014,Perak,Hepatitis A,,
+2014,Perak,Hepatitis B,77,3.13
+2014,Perak,Hepatitis C,130,5.29
+2014,Perak,Leprosy,14,0.57
+2014,Perak,Leptospirosis,621,25.28
+2014,Perak,Malaria,81,3.3
+2014,Perak,Measles,4,0.16
+2014,Perak,Neonatal Tetanus ,,
+2014,Perak,Other Specified Viral,1,0.04
+2014,Perak,Other Tetanus,1,0.04
+2014,Perak,Syphillis,55,2.24
+2014,Perak,Tuberculosis,1611,65.58
+2014,Perak,Typhoid,12,0.49
+2014,Perak,Typhus,,
+2014,Perak,Viral encephalitis,4,0.16
+2014,Perak,Whooping cough,17,0.69
+2014,Perlis,A.I.D.S,12,4.93
+2014,Perlis,Cholera,,
+2014,Perlis,Dengue fever,317,130.13
+2014,Perlis,Dengue haemorrhagic fever,,
+2014,Perlis,Diphteria,,
+2014,Perlis,Dysentry ,3,1.23
+2014,Perlis,Food poisoning,489,200.74
+2014,Perlis,Gonorrhoea,6,2.46
+2014,Perlis,H.I.V,19,7.8
+2014,Perlis,"Hand, Foot and Mouth Disease",277,113.71
+2014,Perlis,Hepatitis A,,
+2014,Perlis,Hepatitis B,21,8.62
+2014,Perlis,Hepatitis C,48,19.7
+2014,Perlis,Leprosy,1,0.41
+2014,Perlis,Leptospirosis,20,8.21
+2014,Perlis,Malaria,2,0.82
+2014,Perlis,Measles,,
+2014,Perlis,Neonatal Tetanus ,,
+2014,Perlis,Other Specified Viral,,
+2014,Perlis,Other Tetanus,1,0.41
+2014,Perlis,Syphillis,8,3.28
+2014,Perlis,Tuberculosis,119,48.85
+2014,Perlis,Typhoid,5,2.05
+2014,Perlis,Typhus,,
+2014,Perlis,Viral encephalitis,,
+2014,Perlis,Whooping cough,18,7.39
+2014,Pulau Pinang,A.I.D.S,24,1.46
+2014,Pulau Pinang,Cholera,,
+2014,Pulau Pinang,Dengue fever,3096,188.13
+2014,Pulau Pinang,Dengue haemorrhagic fever,45,2.73
+2014,Pulau Pinang,Diphteria,,
+2014,Pulau Pinang,Dysentry ,2,0.12
+2014,Pulau Pinang,Food poisoning,2227,135.32
+2014,Pulau Pinang,Gonorrhoea,12,0.73
+2014,Pulau Pinang,H.I.V,110,6.68
+2014,Pulau Pinang,"Hand, Foot and Mouth Disease",1450,88.11
+2014,Pulau Pinang,Hepatitis A,,
+2014,Pulau Pinang,Hepatitis B,13,0.79
+2014,Pulau Pinang,Hepatitis C,22,1.34
+2014,Pulau Pinang,Leprosy,10,0.61
+2014,Pulau Pinang,Leptospirosis,191,11.61
+2014,Pulau Pinang,Malaria,37,2.25
+2014,Pulau Pinang,Measles,1,0.06
+2014,Pulau Pinang,Neonatal Tetanus ,,
+2014,Pulau Pinang,Other Specified Viral,,
+2014,Pulau Pinang,Other Tetanus,,
+2014,Pulau Pinang,Syphillis,59,3.59
+2014,Pulau Pinang,Tuberculosis,1252,76.08
+2014,Pulau Pinang,Typhoid,9,0.55
+2014,Pulau Pinang,Typhus,1,0.06
+2014,Pulau Pinang,Viral encephalitis,6,0.36
+2014,Pulau Pinang,Whooping cough,4,0.24
+2014,Sabah,A.I.D.S,101,2.9
+2014,Sabah,Cholera,134,3.84
+2014,Sabah,Dengue fever,1433,41.12
+2014,Sabah,Dengue haemorrhagic fever,23,0.66
+2014,Sabah,Diphteria,1,0.03
+2014,Sabah,Dysentry ,7,0.2
+2014,Sabah,Food poisoning,1689,48.46
+2014,Sabah,Gonorrhoea,219,6.28
+2014,Sabah,H.I.V,257,7.37
+2014,Sabah,"Hand, Foot and Mouth Disease",559,16.04
+2014,Sabah,Hepatitis A,20,0.57
+2014,Sabah,Hepatitis B,1545,44.33
+2014,Sabah,Hepatitis C,40,1.15
+2014,Sabah,Leprosy,104,2.98
+2014,Sabah,Leptospirosis,930,26.68
+2014,Sabah,Malaria,1779,51.04
+2014,Sabah,Measles,81,2.32
+2014,Sabah,Neonatal Tetanus ,8,0.14
+2014,Sabah,Other Specified Viral,78,2.24
+2014,Sabah,Other Tetanus,6,0.17
+2014,Sabah,Syphillis,281,8.06
+2014,Sabah,Tuberculosis,4747,136.2
+2014,Sabah,Typhoid,66,1.89
+2014,Sabah,Typhus,,
+2014,Sabah,Viral encephalitis,10,0.29
+2014,Sabah,Whooping cough,20,0.57
+2014,Sarawak,A.I.D.S,122,4.68
+2014,Sarawak,Cholera,,
+2014,Sarawak,Dengue fever,2543,97.6
+2014,Sarawak,Dengue haemorrhagic fever,28,1.07
+2014,Sarawak,Diphteria,,
+2014,Sarawak,Dysentry ,8,0.31
+2014,Sarawak,Food poisoning,1035,39.72
+2014,Sarawak,Gonorrhoea,701,26.9
+2014,Sarawak,H.I.V,235,9.02
+2014,Sarawak,"Hand, Foot and Mouth Disease",9481,363.88
+2014,Sarawak,Hepatitis A,8,0.31
+2014,Sarawak,Hepatitis B,264,10.13
+2014,Sarawak,Hepatitis C,227,8.71
+2014,Sarawak,Leprosy,31,1.19
+2014,Sarawak,Leptospirosis,616,23.64
+2014,Sarawak,Malaria,1301,49.93
+2014,Sarawak,Measles,7,0.27
+2014,Sarawak,Neonatal Tetanus ,,
+2014,Sarawak,Other Specified Viral,,
+2014,Sarawak,Other Tetanus,,
+2014,Sarawak,Syphillis,253,9.71
+2014,Sarawak,Tuberculosis,2793,107.2
+2014,Sarawak,Typhoid,9,0.35
+2014,Sarawak,Typhus,,
+2014,Sarawak,Viral encephalitis,21,0.81
+2014,Sarawak,Whooping cough,61,2.34
+2014,Selangor,A.I.D.S,83,1.43
+2014,Selangor,Cholera,,
+2014,Selangor,Dengue fever,53682,925.54
+2014,Selangor,Dengue haemorrhagic fever,608,10.48
+2014,Selangor,Diphteria,,
+2014,Selangor,Dysentry ,26,0.45
+2014,Selangor,Food poisoning,2680,46.21
+2014,Selangor,Gonorrhoea,174,3
+2014,Selangor,H.I.V,824,14.21
+2014,Selangor,"Hand, Foot and Mouth Disease",9121,157.26
+2014,Selangor,Hepatitis A,16,0.28
+2014,Selangor,Hepatitis B,680,11.72
+2014,Selangor,Hepatitis C,216,3.72
+2014,Selangor,Leprosy,41,0.71
+2014,Selangor,Leptospirosis,1832,31.59
+2014,Selangor,Malaria,326,5.62
+2014,Selangor,Measles,24,0.41
+2014,Selangor,Neonatal Tetanus ,,
+2014,Selangor,Other Specified Viral,17,0.29
+2014,Selangor,Other Tetanus,,
+2014,Selangor,Syphillis,406,7
+2014,Selangor,Tuberculosis,4365,75.26
+2014,Selangor,Typhoid,18,0.31
+2014,Selangor,Typhus,,
+2014,Selangor,Viral encephalitis,,
+2014,Selangor,Whooping cough,161,2.78
+2014,Terengganu,A.I.D.S,100,8.83
+2014,Terengganu,Cholera,,
+2014,Terengganu,Dengue fever,1618,142.84
+2014,Terengganu,Dengue haemorrhagic fever,70,6.18
+2014,Terengganu,Diphteria,,
+2014,Terengganu,Dysentry ,3,0.26
+2014,Terengganu,Food poisoning,999,88.2
+2014,Terengganu,Gonorrhoea,33,2.91
+2014,Terengganu,H.I.V,210,18.54
+2014,Terengganu,"Hand, Foot and Mouth Disease",415,36.64
+2014,Terengganu,Hepatitis A,,
+2014,Terengganu,Hepatitis B,85,7.5
+2014,Terengganu,Hepatitis C,201,17.75
+2014,Terengganu,Leprosy,4,0.35
+2014,Terengganu,Leptospirosis,374,33.02
+2014,Terengganu,Malaria,17,1.5
+2014,Terengganu,Measles,2,0.18
+2014,Terengganu,Neonatal Tetanus ,,
+2014,Terengganu,Other Specified Viral,,
+2014,Terengganu,Other Tetanus,,
+2014,Terengganu,Syphillis,33,2.91
+2014,Terengganu,Tuberculosis,729,64.36
+2014,Terengganu,Typhoid,7,0.62
+2014,Terengganu,Typhus,1,0.09
+2014,Terengganu,Viral encephalitis,,
+2014,Terengganu,Whooping cough,32,2.83
+2014,W.P. Kuala Lumpur,A.I.D.S,36,1.96
+2014,W.P. Kuala Lumpur,Cholera,,
+2014,W.P. Kuala Lumpur,Dengue fever,7076,385.47
+2014,W.P. Kuala Lumpur,Dengue haemorrhagic fever,109,5.94
+2014,W.P. Kuala Lumpur,Diphteria,,
+2014,W.P. Kuala Lumpur,Dysentry ,1,0.05
+2014,W.P. Kuala Lumpur,Food poisoning,476,25.93
+2014,W.P. Kuala Lumpur,Gonorrhoea,125,6.81
+2014,W.P. Kuala Lumpur,H.I.V,448,24.4
+2014,W.P. Kuala Lumpur,"Hand, Foot and Mouth Disease",2398,130.63
+2014,W.P. Kuala Lumpur,Hepatitis A,4,0.22
+2014,W.P. Kuala Lumpur,Hepatitis B,289,15.74
+2014,W.P. Kuala Lumpur,Hepatitis C,73,3.98
+2014,W.P. Kuala Lumpur,Leprosy,12,0.65
+2014,W.P. Kuala Lumpur,Leptospirosis,350,19.07
+2014,W.P. Kuala Lumpur,Malaria,20,1.09
+2014,W.P. Kuala Lumpur,Measles,48,2.61
+2014,W.P. Kuala Lumpur,Neonatal Tetanus ,,
+2014,W.P. Kuala Lumpur,Other Specified Viral,,
+2014,W.P. Kuala Lumpur,Other Tetanus,,
+2014,W.P. Kuala Lumpur,Syphillis,202,11
+2014,W.P. Kuala Lumpur,Tuberculosis,1778,96.86
+2014,W.P. Kuala Lumpur,Typhoid,12,0.65
+2014,W.P. Kuala Lumpur,Typhus,,
+2014,W.P. Kuala Lumpur,Viral encephalitis,,
+2014,W.P. Kuala Lumpur,Whooping cough,12,0.65
+2014,W.P. Labuan,A.I.D.S,,
+2014,W.P. Labuan,Cholera,,
+2014,W.P. Labuan,Dengue fever,11,11.57
+2014,W.P. Labuan,Dengue haemorrhagic fever,,
+2014,W.P. Labuan,Diphteria,,
+2014,W.P. Labuan,Dysentry ,1,1.05
+2014,W.P. Labuan,Food poisoning,6,6.31
+2014,W.P. Labuan,Gonorrhoea,13,13.67
+2014,W.P. Labuan,H.I.V,9,9.46
+2014,W.P. Labuan,"Hand, Foot and Mouth Disease",38,39.96
+2014,W.P. Labuan,Hepatitis A,,
+2014,W.P. Labuan,Hepatitis B,48,50.47
+2014,W.P. Labuan,Hepatitis C,8,8.41
+2014,W.P. Labuan,Leprosy,2,2.1
+2014,W.P. Labuan,Leptospirosis,25,26.29
+2014,W.P. Labuan,Malaria,,
+2014,W.P. Labuan,Measles,14,14.72
+2014,W.P. Labuan,Neonatal Tetanus ,,
+2014,W.P. Labuan,Other Specified Viral,,
+2014,W.P. Labuan,Other Tetanus,1,1.05
+2014,W.P. Labuan,Syphillis,7,7.36
+2014,W.P. Labuan,Tuberculosis,104,109.36
+2014,W.P. Labuan,Typhoid,,
+2014,W.P. Labuan,Typhus,,
+2014,W.P. Labuan,Viral encephalitis,,
+2014,W.P. Labuan,Whooping cough,,
+2015,Johor,A.I.D.S,163,4.59
+2015,Johor,Cholera,,
+2015,Johor,Dengue fever,15683,441.33
+2015,Johor,Dengue haemorrhagic fever,60,1.69
+2015,Johor,Diphteria,,
+2015,Johor,Dysentry ,11,0.31
+2015,Johor,Food poisoning,1353,38.07
+2015,Johor,Gonorrhoea,300,8.44
+2015,Johor,H.I.V,451,12.69
+2015,Johor,"Hand, Foot and Mouth Disease",2041,57.43
+2015,Johor,Hepatitis A,10,0.28
+2015,Johor,Hepatitis B,404,11.37
+2015,Johor,Hepatitis C,177,4.98
+2015,Johor,Leprosy,8,0.23
+2015,Johor,Leptospirosis,306,8.61
+2015,Johor,Malaria,45,1.27
+2015,Johor,Measles,87,2.45
+2015,Johor,Neonatal Tetanus ,,
+2015,Johor,Other Specified Viral,1,0.03
+2015,Johor,Other Tetanus,2,0.06
+2015,Johor,Syphillis,140,3.94
+2015,Johor,Tuberculosis,2409,67.79
+2015,Johor,Typhoid,14,0.39
+2015,Johor,Typhus,,
+2015,Johor,Viral encephalitis,2,0.06
+2015,Johor,Whooping cough,22,0.62
+2015,Kedah,A.I.D.S,62,2.99
+2015,Kedah,Cholera,1,0.05
+2015,Kedah,Dengue fever,983,47.44
+2015,Kedah,Dengue haemorrhagic fever,17,0.82
+2015,Kedah,Diphteria,2,0.1
+2015,Kedah,Dysentry ,11,0.53
+2015,Kedah,Food poisoning,898,43.34
+2015,Kedah,Gonorrhoea,71,3.43
+2015,Kedah,H.I.V,137,6.61
+2015,Kedah,"Hand, Foot and Mouth Disease",448,21.62
+2015,Kedah,Hepatitis A,1,0.05
+2015,Kedah,Hepatitis B,72,3.48
+2015,Kedah,Hepatitis C,147,7.09
+2015,Kedah,Leprosy,10,0.48
+2015,Kedah,Leptospirosis,760,36.68
+2015,Kedah,Malaria,14,0.68
+2015,Kedah,Measles,28,1.35
+2015,Kedah,Neonatal Tetanus ,,
+2015,Kedah,Other Specified Viral,2,0.1
+2015,Kedah,Other Tetanus,4,0.19
+2015,Kedah,Syphillis,78,3.76
+2015,Kedah,Tuberculosis,1279,61.73
+2015,Kedah,Typhoid,9,0.43
+2015,Kedah,Typhus,,
+2015,Kedah,Viral encephalitis,1,0.05
+2015,Kedah,Whooping cough,155,7.48
+2015,Kelantan,A.I.D.S,106,6.17
+2015,Kelantan,Cholera,,
+2015,Kelantan,Dengue fever,2840,165.29
+2015,Kelantan,Dengue haemorrhagic fever,10,0.58
+2015,Kelantan,Diphteria,,
+2015,Kelantan,Dysentry ,2,0.12
+2015,Kelantan,Food poisoning,584,33.99
+2015,Kelantan,Gonorrhoea,31,1.8
+2015,Kelantan,H.I.V,169,9.84
+2015,Kelantan,"Hand, Foot and Mouth Disease",233,13.56
+2015,Kelantan,Hepatitis A,14,0.81
+2015,Kelantan,Hepatitis B,167,9.72
+2015,Kelantan,Hepatitis C,215,12.51
+2015,Kelantan,Leprosy,5,0.29
+2015,Kelantan,Leptospirosis,1956,113.84
+2015,Kelantan,Malaria,54,3.14
+2015,Kelantan,Measles,24,1.4
+2015,Kelantan,Neonatal Tetanus ,,
+2015,Kelantan,Other Specified Viral,10,0.58
+2015,Kelantan,Other Tetanus,1,0.06
+2015,Kelantan,Syphillis,79,4.6
+2015,Kelantan,Tuberculosis,1233,71.76
+2015,Kelantan,Typhoid,182,10.59
+2015,Kelantan,Typhus,,
+2015,Kelantan,Viral encephalitis,,
+2015,Kelantan,Whooping cough,30,1.75
+2015,Malaysia,A.I.D.S,1111,3.64
+2015,Malaysia,Cholera,244,0.8
+2015,Malaysia,Dengue fever,119796,392.96
+2015,Malaysia,Dengue haemorrhagic fever,1040,3.41
+2015,Malaysia,Diphteria,4,0.01
+2015,Malaysia,Dysentry ,125,0.41
+2015,Malaysia,Food poisoning,14433,47.34
+2015,Malaysia,Gonorrhoea,2295,7.53
+2015,Malaysia,H.I.V,3330,10.92
+2015,Malaysia,"Hand, Foot and Mouth Disease",22587,74.09
+2015,Malaysia,Hepatitis A,110,0.36
+2015,Malaysia,Hepatitis B,3855,12.65
+2015,Malaysia,Hepatitis C,2108,6.91
+2015,Malaysia,Leprosy,210,0.69
+2015,Malaysia,Leptospirosis,8291,27.2
+2015,Malaysia,Malaria,2311,7.58
+2015,Malaysia,Measles,1318,4.32
+2015,Malaysia,Neonatal Tetanus ,16,0.05
+2015,Malaysia,Other Specified Viral,45,0.15
+2015,Malaysia,Other Tetanus,20,0.07
+2015,Malaysia,Syphillis,1828,6
+2015,Malaysia,Tuberculosis,24220,79.45
+2015,Malaysia,Typhoid,434,1.42
+2015,Malaysia,Typhus,3,0.01
+2015,Malaysia,Viral encephalitis,37,0.12
+2015,Malaysia,Whooping cough,939,3.08
+2015,Melaka,A.I.D.S,44,5.04
+2015,Melaka,Cholera,,
+2015,Melaka,Dengue fever,2376,272.2
+2015,Melaka,Dengue haemorrhagic fever,44,5.04
+2015,Melaka,Diphteria,,
+2015,Melaka,Dysentry ,,
+2015,Melaka,Food poisoning,605,69.31
+2015,Melaka,Gonorrhoea,67,7.68
+2015,Melaka,H.I.V,128,14.66
+2015,Melaka,"Hand, Foot and Mouth Disease",443,50.75
+2015,Melaka,Hepatitis A,1,0.11
+2015,Melaka,Hepatitis B,81,9.28
+2015,Melaka,Hepatitis C,164,18.79
+2015,Melaka,Leprosy,4,0.46
+2015,Melaka,Leptospirosis,231,26.46
+2015,Melaka,Malaria,2,0.23
+2015,Melaka,Measles,85,9.74
+2015,Melaka,Neonatal Tetanus ,,
+2015,Melaka,Other Specified Viral,,
+2015,Melaka,Other Tetanus,,
+2015,Melaka,Syphillis,56,6.42
+2015,Melaka,Tuberculosis,513,58.77
+2015,Melaka,Typhoid,1,0.11
+2015,Melaka,Typhus,,
+2015,Melaka,Viral encephalitis,1,0.11
+2015,Melaka,Whooping cough,33,3.78
+2015,Negeri Sembilan,A.I.D.S,51,4.64
+2015,Negeri Sembilan,Cholera,,
+2015,Negeri Sembilan,Dengue fever,2423,220.59
+2015,Negeri Sembilan,Dengue haemorrhagic fever,31,2.82
+2015,Negeri Sembilan,Diphteria,,
+2015,Negeri Sembilan,Dysentry ,3,0.27
+2015,Negeri Sembilan,Food poisoning,549,49.98
+2015,Negeri Sembilan,Gonorrhoea,53,4.83
+2015,Negeri Sembilan,H.I.V,133,12.11
+2015,Negeri Sembilan,"Hand, Foot and Mouth Disease",542,49.34
+2015,Negeri Sembilan,Hepatitis A,2,0.18
+2015,Negeri Sembilan,Hepatitis B,58,5.28
+2015,Negeri Sembilan,Hepatitis C,84,7.65
+2015,Negeri Sembilan,Leprosy,4,0.36
+2015,Negeri Sembilan,Leptospirosis,296,26.95
+2015,Negeri Sembilan,Malaria,18,1.64
+2015,Negeri Sembilan,Measles,24,2.18
+2015,Negeri Sembilan,Neonatal Tetanus ,,
+2015,Negeri Sembilan,Other Specified Viral,1,0.09
+2015,Negeri Sembilan,Other Tetanus,,
+2015,Negeri Sembilan,Syphillis,63,5.74
+2015,Negeri Sembilan,Tuberculosis,667,60.72
+2015,Negeri Sembilan,Typhoid,5,0.46
+2015,Negeri Sembilan,Typhus,1,0.09
+2015,Negeri Sembilan,Viral encephalitis,,
+2015,Negeri Sembilan,Whooping cough,43,3.91
+2015,Pahang,A.I.D.S,129,7.95
+2015,Pahang,Cholera,,
+2015,Pahang,Dengue fever,2979,183.53
+2015,Pahang,Dengue haemorrhagic fever,22,1.36
+2015,Pahang,Diphteria,,
+2015,Pahang,Dysentry ,10,0.62
+2015,Pahang,Food poisoning,849,52.3
+2015,Pahang,Gonorrhoea,143,8.81
+2015,Pahang,H.I.V,177,10.9
+2015,Pahang,"Hand, Foot and Mouth Disease",171,10.53
+2015,Pahang,Hepatitis A,1,0.06
+2015,Pahang,Hepatitis B,240,14.79
+2015,Pahang,Hepatitis C,319,19.65
+2015,Pahang,Leprosy,12,0.74
+2015,Pahang,Leptospirosis,378,23.29
+2015,Pahang,Malaria,79,4.87
+2015,Pahang,Measles,26,1.6
+2015,Pahang,Neonatal Tetanus ,,
+2015,Pahang,Other Specified Viral,,
+2015,Pahang,Other Tetanus,1,0.06
+2015,Pahang,Syphillis,49,3.02
+2015,Pahang,Tuberculosis,936,57.66
+2015,Pahang,Typhoid,4,0.25
+2015,Pahang,Typhus,,
+2015,Pahang,Viral encephalitis,,
+2015,Pahang,Whooping cough,58,3.57
+2015,Perak,A.I.D.S,36,1.45
+2015,Perak,Cholera,,
+2015,Perak,Dengue fever,9396,379.22
+2015,Perak,Dengue haemorrhagic fever,70,2.83
+2015,Perak,Diphteria,,
+2015,Perak,Dysentry ,16,0.65
+2015,Perak,Food poisoning,1403,56.63
+2015,Perak,Gonorrhoea,29,1.17
+2015,Perak,H.I.V,149,6.01
+2015,Perak,"Hand, Foot and Mouth Disease",1120,45.2
+2015,Perak,Hepatitis A,6,0.24
+2015,Perak,Hepatitis B,205,8.27
+2015,Perak,Hepatitis C,88,3.55
+2015,Perak,Leprosy,7,0.28
+2015,Perak,Leptospirosis,502,20.26
+2015,Perak,Malaria,34,1.37
+2015,Perak,Measles,19,0.77
+2015,Perak,Neonatal Tetanus ,,
+2015,Perak,Other Specified Viral,,
+2015,Perak,Other Tetanus,,
+2015,Perak,Syphillis,78,3.15
+2015,Perak,Tuberculosis,1657,66.88
+2015,Perak,Typhoid,37,1.49
+2015,Perak,Typhus,,
+2015,Perak,Viral encephalitis,5,0.2
+2015,Perak,Whooping cough,41,1.65
+2015,Perlis,A.I.D.S,17,6.91
+2015,Perlis,Cholera,,
+2015,Perlis,Dengue fever,256,104.07
+2015,Perlis,Dengue haemorrhagic fever,2,0.81
+2015,Perlis,Diphteria,,
+2015,Perlis,Dysentry ,2,0.81
+2015,Perlis,Food poisoning,334,135.77
+2015,Perlis,Gonorrhoea,9,3.66
+2015,Perlis,H.I.V,27,10.98
+2015,Perlis,"Hand, Foot and Mouth Disease",86,34.96
+2015,Perlis,Hepatitis A,,
+2015,Perlis,Hepatitis B,8,3.25
+2015,Perlis,Hepatitis C,30,12.2
+2015,Perlis,Leprosy,,
+2015,Perlis,Leptospirosis,16,6.5
+2015,Perlis,Malaria,4,1.63
+2015,Perlis,Measles,40,16.26
+2015,Perlis,Neonatal Tetanus ,,
+2015,Perlis,Other Specified Viral,,
+2015,Perlis,Other Tetanus,,
+2015,Perlis,Syphillis,11,4.47
+2015,Perlis,Tuberculosis,130,52.85
+2015,Perlis,Typhoid,1,0.41
+2015,Perlis,Typhus,,
+2015,Perlis,Viral encephalitis,,
+2015,Perlis,Whooping cough,31,12.6
+2015,Pulau Pinang,A.I.D.S,22,1.32
+2015,Pulau Pinang,Cholera,,
+2015,Pulau Pinang,Dengue fever,5790,348.17
+2015,Pulau Pinang,Dengue haemorrhagic fever,40,2.41
+2015,Pulau Pinang,Diphteria,,
+2015,Pulau Pinang,Dysentry ,1,0.06
+2015,Pulau Pinang,Food poisoning,434,26.1
+2015,Pulau Pinang,Gonorrhoea,18,1.08
+2015,Pulau Pinang,H.I.V,103,6.19
+2015,Pulau Pinang,"Hand, Foot and Mouth Disease",758,45.58
+2015,Pulau Pinang,Hepatitis A,2,0.12
+2015,Pulau Pinang,Hepatitis B,33,1.98
+2015,Pulau Pinang,Hepatitis C,50,3.01
+2015,Pulau Pinang,Leprosy,7,0.42
+2015,Pulau Pinang,Leptospirosis,140,8.42
+2015,Pulau Pinang,Malaria,17,1.02
+2015,Pulau Pinang,Measles,10,0.6
+2015,Pulau Pinang,Neonatal Tetanus ,,
+2015,Pulau Pinang,Other Specified Viral,,
+2015,Pulau Pinang,Other Tetanus,,
+2015,Pulau Pinang,Syphillis,68,4.09
+2015,Pulau Pinang,Tuberculosis,1283,77.15
+2015,Pulau Pinang,Typhoid,8,0.48
+2015,Pulau Pinang,Typhus,,
+2015,Pulau Pinang,Viral encephalitis,1,0.06
+2015,Pulau Pinang,Whooping cough,11,0.66
+2015,Sabah,A.I.D.S,111,3.13
+2015,Sabah,Cholera,235,6.63
+2015,Sabah,Dengue fever,2884,81.39
+2015,Sabah,Dengue haemorrhagic fever,20,0.56
+2015,Sabah,Diphteria,2,0.06
+2015,Sabah,Dysentry ,3,0.08
+2015,Sabah,Food poisoning,1552,43.8
+2015,Sabah,Gonorrhoea,279,7.87
+2015,Sabah,H.I.V,233,6.58
+2015,Sabah,"Hand, Foot and Mouth Disease",1384,39.06
+2015,Sabah,Hepatitis A,39,1.1
+2015,Sabah,Hepatitis B,1129,31.86
+2015,Sabah,Hepatitis C,43,1.21
+2015,Sabah,Leprosy,75,2.12
+2015,Sabah,Leptospirosis,470,13.26
+2015,Sabah,Malaria,1044,29.46
+2015,Sabah,Measles,155,4.37
+2015,Sabah,Neonatal Tetanus ,16,0.29
+2015,Sabah,Other Specified Viral,26,0.73
+2015,Sabah,Other Tetanus,9,0.25
+2015,Sabah,Syphillis,211,5.95
+2015,Sabah,Tuberculosis,4464,125.98
+2015,Sabah,Typhoid,56,1.58
+2015,Sabah,Typhus,1,0.03
+2015,Sabah,Viral encephalitis,6,0.17
+2015,Sabah,Whooping cough,22,0.62
+2015,Sarawak,A.I.D.S,128,4.86
+2015,Sarawak,Cholera,3,0.11
+2015,Sarawak,Dengue fever,1913,72.57
+2015,Sarawak,Dengue haemorrhagic fever,10,0.38
+2015,Sarawak,Diphteria,,
+2015,Sarawak,Dysentry ,9,0.34
+2015,Sarawak,Food poisoning,1216,46.13
+2015,Sarawak,Gonorrhoea,556,21.09
+2015,Sarawak,H.I.V,230,8.73
+2015,Sarawak,"Hand, Foot and Mouth Disease",8749,331.9
+2015,Sarawak,Hepatitis A,15,0.57
+2015,Sarawak,Hepatitis B,236,8.95
+2015,Sarawak,Hepatitis C,167,6.34
+2015,Sarawak,Leprosy,22,0.83
+2015,Sarawak,Leptospirosis,800,30.35
+2015,Sarawak,Malaria,873,33.12
+2015,Sarawak,Measles,21,0.8
+2015,Sarawak,Neonatal Tetanus ,,
+2015,Sarawak,Other Specified Viral,,
+2015,Sarawak,Other Tetanus,1,0.04
+2015,Sarawak,Syphillis,191,7.25
+2015,Sarawak,Tuberculosis,2575,97.69
+2015,Sarawak,Typhoid,6,0.23
+2015,Sarawak,Typhus,1,0.04
+2015,Sarawak,Viral encephalitis,20,0.76
+2015,Sarawak,Whooping cough,71,2.69
+2015,Selangor,A.I.D.S,96,1.63
+2015,Selangor,Cholera,1,0.02
+2015,Selangor,Dengue fever,62614,1065.93
+2015,Selangor,Dengue haemorrhagic fever,584,9.94
+2015,Selangor,Diphteria,,
+2015,Selangor,Dysentry ,49,0.83
+2015,Selangor,Food poisoning,3441,58.58
+2015,Selangor,Gonorrhoea,410,6.98
+2015,Selangor,H.I.V,767,13.06
+2015,Selangor,"Hand, Foot and Mouth Disease",4759,81.02
+2015,Selangor,Hepatitis A,11,0.19
+2015,Selangor,Hepatitis B,656,11.17
+2015,Selangor,Hepatitis C,295,5.02
+2015,Selangor,Leprosy,42,0.72
+2015,Selangor,Leptospirosis,1233,20.99
+2015,Selangor,Malaria,100,1.7
+2015,Selangor,Measles,522,8.89
+2015,Selangor,Neonatal Tetanus ,,
+2015,Selangor,Other Specified Viral,4,0.07
+2015,Selangor,Other Tetanus,1,0.02
+2015,Selangor,Syphillis,478,8.14
+2015,Selangor,Tuberculosis,4429,75.4
+2015,Selangor,Typhoid,44,0.75
+2015,Selangor,Typhus,,
+2015,Selangor,Viral encephalitis,,
+2015,Selangor,Whooping cough,278,4.73
+2015,Terengganu,A.I.D.S,87,7.54
+2015,Terengganu,Cholera,,
+2015,Terengganu,Dengue fever,1429,123.88
+2015,Terengganu,Dengue haemorrhagic fever,26,2.25
+2015,Terengganu,Diphteria,,
+2015,Terengganu,Dysentry ,6,0.52
+2015,Terengganu,Food poisoning,854,74.04
+2015,Terengganu,Gonorrhoea,31,2.69
+2015,Terengganu,H.I.V,165,14.3
+2015,Terengganu,"Hand, Foot and Mouth Disease",173,15
+2015,Terengganu,Hepatitis A,1,0.09
+2015,Terengganu,Hepatitis B,155,13.44
+2015,Terengganu,Hepatitis C,236,20.46
+2015,Terengganu,Leprosy,9,0.78
+2015,Terengganu,Leptospirosis,789,68.4
+2015,Terengganu,Malaria,11,0.95
+2015,Terengganu,Measles,37,3.21
+2015,Terengganu,Neonatal Tetanus ,,
+2015,Terengganu,Other Specified Viral,1,0.09
+2015,Terengganu,Other Tetanus,,
+2015,Terengganu,Syphillis,22,1.91
+2015,Terengganu,Tuberculosis,710,61.55
+2015,Terengganu,Typhoid,2,0.17
+2015,Terengganu,Typhus,,
+2015,Terengganu,Viral encephalitis,1,0.09
+2015,Terengganu,Whooping cough,103,8.93
+2015,W.P. Kuala Lumpur,A.I.D.S,58,3.12
+2015,W.P. Kuala Lumpur,Cholera,3,0.16
+2015,W.P. Kuala Lumpur,Dengue fever,8228,443.25
+2015,W.P. Kuala Lumpur,Dengue haemorrhagic fever,104,5.6
+2015,W.P. Kuala Lumpur,Diphteria,,
+2015,W.P. Kuala Lumpur,Dysentry ,2,0.11
+2015,W.P. Kuala Lumpur,Food poisoning,350,18.85
+2015,W.P. Kuala Lumpur,Gonorrhoea,277,14.92
+2015,W.P. Kuala Lumpur,H.I.V,448,24.13
+2015,W.P. Kuala Lumpur,"Hand, Foot and Mouth Disease",1353,72.89
+2015,W.P. Kuala Lumpur,Hepatitis A,6,0.32
+2015,W.P. Kuala Lumpur,Hepatitis B,337,18.15
+2015,W.P. Kuala Lumpur,Hepatitis C,84,4.53
+2015,W.P. Kuala Lumpur,Leprosy,5,0.27
+2015,W.P. Kuala Lumpur,Leptospirosis,365,19.66
+2015,W.P. Kuala Lumpur,Malaria,16,0.86
+2015,W.P. Kuala Lumpur,Measles,239,12.88
+2015,W.P. Kuala Lumpur,Neonatal Tetanus ,,
+2015,W.P. Kuala Lumpur,Other Specified Viral,,
+2015,W.P. Kuala Lumpur,Other Tetanus,1,0.05
+2015,W.P. Kuala Lumpur,Syphillis,290,15.62
+2015,W.P. Kuala Lumpur,Tuberculosis,1819,97.99
+2015,W.P. Kuala Lumpur,Typhoid,62,3.34
+2015,W.P. Kuala Lumpur,Typhus,,
+2015,W.P. Kuala Lumpur,Viral encephalitis,,
+2015,W.P. Kuala Lumpur,Whooping cough,41,2.21
+2015,W.P. Labuan,A.I.D.S,1,1.03
+2015,W.P. Labuan,Cholera,1,1.03
+2015,W.P. Labuan,Dengue fever,2,2.07
+2015,W.P. Labuan,Dengue haemorrhagic fever,,
+2015,W.P. Labuan,Diphteria,,
+2015,W.P. Labuan,Dysentry ,,
+2015,W.P. Labuan,Food poisoning,11,11.36
+2015,W.P. Labuan,Gonorrhoea,21,21.69
+2015,W.P. Labuan,H.I.V,13,13.43
+2015,W.P. Labuan,"Hand, Foot and Mouth Disease",327,337.81
+2015,W.P. Labuan,Hepatitis A,1,1.03
+2015,W.P. Labuan,Hepatitis B,74,76.45
+2015,W.P. Labuan,Hepatitis C,9,9.3
+2015,W.P. Labuan,Leprosy,,
+2015,W.P. Labuan,Leptospirosis,49,50.62
+2015,W.P. Labuan,Malaria,,
+2015,W.P. Labuan,Measles,1,1.03
+2015,W.P. Labuan,Neonatal Tetanus ,,
+2015,W.P. Labuan,Other Specified Viral,,
+2015,W.P. Labuan,Other Tetanus,,
+2015,W.P. Labuan,Syphillis,14,14.46
+2015,W.P. Labuan,Tuberculosis,116,119.83
+2015,W.P. Labuan,Typhoid,3,3.1
+2015,W.P. Labuan,Typhus,,
+2015,W.P. Labuan,Viral encephalitis,,
+2015,W.P. Labuan,Whooping cough,,
+2017,Johor,A.I.D.S,178,4.720984511
+2017,Johor,Cholera,,
+2017,Johor,Dengue fever,7903,209.6064078
+2017,Johor,Dengue haemorrhagic fever,29,0.769149162
+2017,Johor,Diphteria,1,0.026522385
+2017,Johor,Dysentry ,15,0.397835773
+2017,Johor,Food poisoning,1572,41.69318905
+2017,Johor,Gonorrhoea,404,10.7150435
+2017,Johor,H.I.V,347,9.203267558
+2017,Johor,"Hand, Foot and Mouth Disease",2306,61.16061956
+2017,Johor,Hepatitis A,5,0.132611924
+2017,Johor,Hepatitis B,325,8.61977509
+2017,Johor,Hepatitis C,181,4.800551666
+2017,Johor,Leprosy,19,0.503925313
+2017,Johor,Leptospirosis,332,8.805431784
+2017,Johor,Malaria,81,2.148313176
+2017,Johor,Measles,464,12.30638659
+2017,Johor,Neonatal Tetanus ,,
+2017,Johor,Other Specified Viral,5,0.132611924
+2017,Johor,Other Tetanus,1,0.026522385
+2017,Johor,Pertusis,8,0.212179079
+2017,Johor,Syphillis,295,7.824103543
+2017,Johor,Tuberculosis,2251,59.70188839
+2017,Johor,Typhoid,11,0.291746234
+2017,Johor,Typhus,,
+2017,Johor,Viral encephalitis,3,0.079567155
+2017,Johor,Whooping cough,,
+2017,Kedah,A.I.D.S,40,1.838826828
+2017,Kedah,Cholera,,
+2017,Kedah,Dengue fever,1423,65.41626442
+2017,Kedah,Dengue haemorrhagic fever,7,0.321794695
+2017,Kedah,Diphteria,4,0.183882683
+2017,Kedah,Dysentry ,10,0.459706707
+2017,Kedah,Food poisoning,810,37.23624328
+2017,Kedah,Gonorrhoea,118,5.424539144
+2017,Kedah,H.I.V,187,8.596515423
+2017,Kedah,"Hand, Foot and Mouth Disease",966,44.40766791
+2017,Kedah,Hepatitis A,1,0.045970671
+2017,Kedah,Hepatitis B,66,3.034064267
+2017,Kedah,Hepatitis C,142,6.527835241
+2017,Kedah,Leprosy,3,0.137912012
+2017,Kedah,Leptospirosis,402,18.48020963
+2017,Kedah,Malaria,16,0.735530731
+2017,Kedah,Measles,97,4.459155059
+2017,Kedah,Neonatal Tetanus ,1,0.027543657
+2017,Kedah,Other Specified Viral,,
+2017,Kedah,Other Tetanus,2,0.091941341
+2017,Kedah,Pertusis,35,1.608973475
+2017,Kedah,Syphillis,83,3.815565669
+2017,Kedah,Tuberculosis,1417,65.1404404
+2017,Kedah,Typhoid,1,0.045970671
+2017,Kedah,Typhus,,
+2017,Kedah,Viral encephalitis,3,0.137912012
+2017,Kedah,Whooping cough,,
+2017,Kelantan,A.I.D.S,144,7.795160505
+2017,Kelantan,Cholera,,
+2017,Kelantan,Dengue fever,2508,135.7657121
+2017,Kelantan,Dengue haemorrhagic fever,7,0.378931413
+2017,Kelantan,Diphteria,,
+2017,Kelantan,Dysentry ,,
+2017,Kelantan,Food poisoning,768,41.57418936
+2017,Kelantan,Gonorrhoea,69,3.735181075
+2017,Kelantan,H.I.V,136,7.362096032
+2017,Kelantan,"Hand, Foot and Mouth Disease",587,31.77610567
+2017,Kelantan,Hepatitis A,2,0.108266118
+2017,Kelantan,Hepatitis B,172,9.310886158
+2017,Kelantan,Hepatitis C,223,12.07167217
+2017,Kelantan,Leprosy,7,0.378931413
+2017,Kelantan,Leptospirosis,489,26.47106588
+2017,Kelantan,Malaria,168,9.094353922
+2017,Kelantan,Measles,35,1.894657067
+2017,Kelantan,Neonatal Tetanus ,,
+2017,Kelantan,Other Specified Viral,,
+2017,Kelantan,Other Tetanus,,
+2017,Kelantan,Pertusis,13,0.703729768
+2017,Kelantan,Syphillis,113,6.117035674
+2017,Kelantan,Tuberculosis,1300,70.37297678
+2017,Kelantan,Typhoid,37,2.002923185
+2017,Kelantan,Typhus,3,0.162399177
+2017,Kelantan,Viral encephalitis,1,0.054133059
+2017,Kelantan,Whooping cough,,
+2017,Malaysia,A.I.D.S,1289,3.979328484
+2017,Malaysia,Cholera,2,0.006174288
+2017,Malaysia,Dengue fever,83443,257.6005483
+2017,Malaysia,Dengue haemorrhagic fever,406,1.253380423
+2017,Malaysia,Diphteria,32,0.098788605
+2017,Malaysia,Dysentry ,119,0.367370124
+2017,Malaysia,Food poisoning,13686,42.25065139
+2017,Malaysia,Gonorrhoea,3364,10.38515207
+2017,Malaysia,H.I.V,3347,10.33267063
+2017,Malaysia,"Hand, Foot and Mouth Disease",29359,90.6354577
+2017,Malaysia,Hepatitis A,153,0.472333016
+2017,Malaysia,Hepatitis B,4991,15.40793519
+2017,Malaysia,Hepatitis C,3089,9.536187501
+2017,Malaysia,Leprosy,214,0.660648794
+2017,Malaysia,Leptospirosis,4365,13.47538311
+2017,Malaysia,Malaria,4114,12.70051
+2017,Malaysia,Measles,1709,5.275928922
+2017,Malaysia,Neonatal Tetanus ,16,0.031626491
+2017,Malaysia,Other Specified Viral,22,0.067917166
+2017,Malaysia,Other Tetanus,25,0.077178597
+2017,Malaysia,Pertusis,353,1.089761796
+2017,Malaysia,Syphillis,2591,7.99878984
+2017,Malaysia,Tuberculosis,26168,80.78438152
+2017,Malaysia,Typhoid,190,0.586557341
+2017,Malaysia,Typhus,20,0.061742878
+2017,Malaysia,Viral encephalitis,30,0.092614317
+2017,Malaysia,Whooping cough,,
+2017,Melaka,A.I.D.S,112,12.15409658
+2017,Melaka,Cholera,,
+2017,Melaka,Dengue fever,1414,153.4454693
+2017,Melaka,Dengue haemorrhagic fever,11,1.193705914
+2017,Melaka,Diphteria,1,0.108518719
+2017,Melaka,Dysentry ,1,0.108518719
+2017,Melaka,Food poisoning,897,97.34129137
+2017,Melaka,Gonorrhoea,107,11.61150298
+2017,Melaka,H.I.V,113,12.2626153
+2017,Melaka,"Hand, Foot and Mouth Disease",1118,121.3239284
+2017,Melaka,Hepatitis A,2,0.217037439
+2017,Melaka,Hepatitis B,118,12.8052089
+2017,Melaka,Hepatitis C,213,23.11448725
+2017,Melaka,Leprosy,,
+2017,Melaka,Leptospirosis,154,16.7118828
+2017,Melaka,Malaria,2,0.217037439
+2017,Melaka,Measles,27,2.930005426
+2017,Melaka,Neonatal Tetanus ,,
+2017,Melaka,Other Specified Viral,,
+2017,Melaka,Other Tetanus,,
+2017,Melaka,Pertusis,8,0.868149756
+2017,Melaka,Syphillis,73,7.921866522
+2017,Melaka,Tuberculosis,639,69.34346175
+2017,Melaka,Typhoid,1,0.108518719
+2017,Melaka,Typhus,2,0.217037439
+2017,Melaka,Viral encephalitis,4,0.434074878
+2017,Melaka,Whooping cough,,
+2017,Negeri Sembilan,A.I.D.S,29,2.568417324
+2017,Negeri Sembilan,Cholera,,
+2017,Negeri Sembilan,Dengue fever,3042,269.4181206
+2017,Negeri Sembilan,Dengue haemorrhagic fever,13,1.15135949
+2017,Negeri Sembilan,Diphteria,2,0.177132229
+2017,Negeri Sembilan,Dysentry ,4,0.354264458
+2017,Negeri Sembilan,Food poisoning,1059,93.79151537
+2017,Negeri Sembilan,Gonorrhoea,118,10.45080152
+2017,Negeri Sembilan,H.I.V,112,9.919404836
+2017,Negeri Sembilan,"Hand, Foot and Mouth Disease",923,81.74652378
+2017,Negeri Sembilan,Hepatitis A,1,0.088566115
+2017,Negeri Sembilan,Hepatitis B,158,13.99344611
+2017,Negeri Sembilan,Hepatitis C,382,33.83225578
+2017,Negeri Sembilan,Leprosy,7,0.619962802
+2017,Negeri Sembilan,Leptospirosis,221,19.57311133
+2017,Negeri Sembilan,Malaria,36,3.188380126
+2017,Negeri Sembilan,Measles,26,2.30271898
+2017,Negeri Sembilan,Neonatal Tetanus ,,
+2017,Negeri Sembilan,Other Specified Viral,,
+2017,Negeri Sembilan,Other Tetanus,1,0.088566115
+2017,Negeri Sembilan,Pertusis,9,0.797095031
+2017,Negeri Sembilan,Syphillis,62,5.491099105
+2017,Negeri Sembilan,Tuberculosis,631,55.88521832
+2017,Negeri Sembilan,Typhoid,5,0.442830573
+2017,Negeri Sembilan,Typhus,,
+2017,Negeri Sembilan,Viral encephalitis,1,0.088566115
+2017,Negeri Sembilan,Whooping cough,,
+2017,Pahang,A.I.D.S,104,6.193794295
+2017,Pahang,Cholera,,
+2017,Pahang,Dengue fever,1684,100.291823
+2017,Pahang,Dengue haemorrhagic fever,6,0.357334286
+2017,Pahang,Diphteria,1,0.059555714
+2017,Pahang,Dysentry ,16,0.95289143
+2017,Pahang,Food poisoning,508,30.2543029
+2017,Pahang,Gonorrhoea,141,8.397355726
+2017,Pahang,H.I.V,127,7.563575725
+2017,Pahang,"Hand, Foot and Mouth Disease",485,28.88452147
+2017,Pahang,Hepatitis A,3,0.178667143
+2017,Pahang,Hepatitis B,254,15.12715145
+2017,Pahang,Hepatitis C,289,17.21160145
+2017,Pahang,Leprosy,19,1.131558573
+2017,Pahang,Leptospirosis,193,11.49425287
+2017,Pahang,Malaria,85,5.062235722
+2017,Pahang,Measles,38,2.263117146
+2017,Pahang,Neonatal Tetanus ,,
+2017,Pahang,Other Specified Viral,,
+2017,Pahang,Other Tetanus,,
+2017,Pahang,Pertusis,19,1.131558573
+2017,Pahang,Syphillis,55,3.27556429
+2017,Pahang,Tuberculosis,936,55.74414865
+2017,Pahang,Typhoid,4,0.238222857
+2017,Pahang,Typhus,,
+2017,Pahang,Viral encephalitis,1,0.059555714
+2017,Pahang,Whooping cough,,
+2017,Perak,A.I.D.S,50,1.962400408
+2017,Perak,Cholera,,
+2017,Perak,Dengue fever,5381,211.1935319
+2017,Perak,Dengue haemorrhagic fever,30,1.177440245
+2017,Perak,Diphteria,,
+2017,Perak,Dysentry ,6,0.235488049
+2017,Perak,Food poisoning,715,28.06232584
+2017,Perak,Gonorrhoea,49,1.9231524
+2017,Perak,H.I.V,154,6.044193257
+2017,Perak,"Hand, Foot and Mouth Disease",1676,65.77966168
+2017,Perak,Hepatitis A,7,0.274736057
+2017,Perak,Hepatitis B,246,9.655010008
+2017,Perak,Hepatitis C,100,3.924800816
+2017,Perak,Leprosy,11,0.43172809
+2017,Perak,Leptospirosis,301,11.81365046
+2017,Perak,Malaria,130,5.102241061
+2017,Perak,Measles,49,1.9231524
+2017,Perak,Neonatal Tetanus ,,
+2017,Perak,Other Specified Viral,1,0.039248008
+2017,Perak,Other Tetanus,1,0.039248008
+2017,Perak,Pertusis,8,0.313984065
+2017,Perak,Syphillis,119,4.670512971
+2017,Perak,Tuberculosis,1703,66.8393579
+2017,Perak,Typhoid,13,0.510224106
+2017,Perak,Typhus,7,0.274736057
+2017,Perak,Viral encephalitis,1,0.039248008
+2017,Perak,Whooping cough,,
+2017,Perlis,A.I.D.S,6,2.340093604
+2017,Perlis,Cholera,,
+2017,Perlis,Dengue fever,174,67.86271451
+2017,Perlis,Dengue haemorrhagic fever,1,0.390015601
+2017,Perlis,Diphteria,,
+2017,Perlis,Dysentry ,,
+2017,Perlis,Food poisoning,466,181.7472699
+2017,Perlis,Gonorrhoea,20,7.800312012
+2017,Perlis,H.I.V,19,7.410296412
+2017,Perlis,"Hand, Foot and Mouth Disease",228,88.92355694
+2017,Perlis,Hepatitis A,,
+2017,Perlis,Hepatitis B,14,5.460218409
+2017,Perlis,Hepatitis C,41,15.99063963
+2017,Perlis,Leprosy,3,1.170046802
+2017,Perlis,Leptospirosis,14,5.460218409
+2017,Perlis,Malaria,1,0.390015601
+2017,Perlis,Measles,3,1.170046802
+2017,Perlis,Neonatal Tetanus ,,
+2017,Perlis,Other Specified Viral,,
+2017,Perlis,Other Tetanus,,
+2017,Perlis,Pertusis,7,2.730109204
+2017,Perlis,Syphillis,13,5.070202808
+2017,Perlis,Tuberculosis,132,51.48205928
+2017,Perlis,Typhoid,,
+2017,Perlis,Typhus,,
+2017,Perlis,Viral encephalitis,,
+2017,Perlis,Whooping cough,,
+2017,Pulau Pinang,A.I.D.S,17,0.973263869
+2017,Pulau Pinang,Cholera,,
+2017,Pulau Pinang,Dengue fever,2664,152.5161734
+2017,Pulau Pinang,Dengue haemorrhagic fever,17,0.973263869
+2017,Pulau Pinang,Diphteria,,
+2017,Pulau Pinang,Dysentry ,1,0.057250816
+2017,Pulau Pinang,Food poisoning,872,49.9227114
+2017,Pulau Pinang,Gonorrhoea,38,2.175531001
+2017,Pulau Pinang,H.I.V,193,11.04940745
+2017,Pulau Pinang,"Hand, Foot and Mouth Disease",1553,88.91051697
+2017,Pulau Pinang,Hepatitis A,,
+2017,Pulau Pinang,Hepatitis B,51,2.919791607
+2017,Pulau Pinang,Hepatitis C,45,2.576286712
+2017,Pulau Pinang,Leprosy,3,0.171752447
+2017,Pulau Pinang,Leptospirosis,80,4.580065266
+2017,Pulau Pinang,Malaria,9,0.515257342
+2017,Pulau Pinang,Measles,17,0.973263869
+2017,Pulau Pinang,Neonatal Tetanus ,,
+2017,Pulau Pinang,Other Specified Viral,,
+2017,Pulau Pinang,Other Tetanus,1,0.057250816
+2017,Pulau Pinang,Pertusis,10,0.572508158
+2017,Pulau Pinang,Syphillis,85,4.866319345
+2017,Pulau Pinang,Tuberculosis,1347,77.11684892
+2017,Pulau Pinang,Typhoid,6,0.343504895
+2017,Pulau Pinang,Typhus,,
+2017,Pulau Pinang,Viral encephalitis,1,0.057250816
+2017,Pulau Pinang,Whooping cough,,
+2017,Sabah,A.I.D.S,116,3.010016088
+2017,Sabah,Cholera,2,0.051896829
+2017,Sabah,Dengue fever,2547,66.09061186
+2017,Sabah,Dengue haemorrhagic fever,13,0.337329389
+2017,Sabah,Diphteria,5,0.129742073
+2017,Sabah,Dysentry ,1,0.025948415
+2017,Sabah,Food poisoning,1737,45.07239608
+2017,Sabah,Gonorrhoea,355,9.211687166
+2017,Sabah,H.I.V,211,5.47511547
+2017,Sabah,"Hand, Foot and Mouth Disease",1927,50.00259484
+2017,Sabah,Hepatitis A,93,2.413202553
+2017,Sabah,Hepatitis B,1332,34.56328818
+2017,Sabah,Hepatitis C,67,1.738543775
+2017,Sabah,Leprosy,75,1.946131091
+2017,Sabah,Leptospirosis,149,3.866313768
+2017,Sabah,Malaria,2004,52.00062276
+2017,Sabah,Measles,276,7.161762416
+2017,Sabah,Neonatal Tetanus ,15,0.281970788
+2017,Sabah,Other Specified Viral,11,0.28543256
+2017,Sabah,Other Tetanus,14,0.363277804
+2017,Sabah,Pertusis,79,2.04992475
+2017,Sabah,Syphillis,230,5.968135347
+2017,Sabah,Tuberculosis,5106,132.4926047
+2017,Sabah,Typhoid,65,1.686646946
+2017,Sabah,Typhus,3,0.077845244
+2017,Sabah,Viral encephalitis,1,0.025948415
+2017,Sabah,Whooping cough,,
+2017,Sarawak,A.I.D.S,167,5.986306771
+2017,Sarawak,Cholera,,
+2017,Sarawak,Dengue fever,946,33.91045632
+2017,Sarawak,Dengue haemorrhagic fever,6,0.21507689
+2017,Sarawak,Diphteria,,
+2017,Sarawak,Dysentry ,5,0.179230742
+2017,Sarawak,Food poisoning,1089,39.03645553
+2017,Sarawak,Gonorrhoea,980,35.12922536
+2017,Sarawak,H.I.V,226,8.101229523
+2017,Sarawak,"Hand, Foot and Mouth Disease",7229,259.1318063
+2017,Sarawak,Hepatitis A,6,0.21507689
+2017,Sarawak,Hepatitis B,701,25.12814998
+2017,Sarawak,Hepatitis C,774,27.74491881
+2017,Sarawak,Leprosy,12,0.43015378
+2017,Sarawak,Leptospirosis,636,22.79815034
+2017,Sarawak,Malaria,1442,51.69014589
+2017,Sarawak,Measles,53,1.899845862
+2017,Sarawak,Neonatal Tetanus ,,
+2017,Sarawak,Other Specified Viral,,
+2017,Sarawak,Other Tetanus,,
+2017,Sarawak,Pertusis,40,1.433845933
+2017,Sarawak,Syphillis,426,15.27045919
+2017,Sarawak,Tuberculosis,2797,100.2616769
+2017,Sarawak,Typhoid,11,0.394307632
+2017,Sarawak,Typhus,,
+2017,Sarawak,Viral encephalitis,10,0.358461483
+2017,Sarawak,Whooping cough,,
+2017,Selangor,A.I.D.S,112,1.74969927
+2017,Selangor,Cholera,,
+2017,Selangor,Dengue fever,45087,704.3633126
+2017,Selangor,Dengue haemorrhagic fever,203,3.171329928
+2017,Selangor,Diphteria,12,0.187467779
+2017,Selangor,Dysentry ,46,0.718626486
+2017,Selangor,Food poisoning,2107,32.91621753
+2017,Selangor,Gonorrhoea,585,9.139054225
+2017,Selangor,H.I.V,968,15.12240084
+2017,Selangor,"Hand, Foot and Mouth Disease",7447,116.3393792
+2017,Selangor,Hepatitis A,23,0.359313243
+2017,Selangor,Hepatitis B,1039,16.2315852
+2017,Selangor,Hepatitis C,332,5.186608552
+2017,Selangor,Leprosy,34,0.531158707
+2017,Selangor,Leptospirosis,697,10.8887535
+2017,Selangor,Malaria,105,1.640343066
+2017,Selangor,Measles,449,7.014419397
+2017,Selangor,Neonatal Tetanus ,,
+2017,Selangor,Other Specified Viral,4,0.06248926
+2017,Selangor,Other Tetanus,4,0.06248926
+2017,Selangor,Pertusis,86,1.343519083
+2017,Selangor,Syphillis,664,10.3732171
+2017,Selangor,Tuberculosis,4916,76.79930012
+2017,Selangor,Typhoid,26,0.406180188
+2017,Selangor,Typhus,4,0.06248926
+2017,Selangor,Viral encephalitis,1,0.015622315
+2017,Selangor,Whooping cough,,
+2017,Terengganu,A.I.D.S,57,4.666393778
+2017,Terengganu,Cholera,,
+2017,Terengganu,Dengue fever,291,23.82316824
+2017,Terengganu,Dengue haemorrhagic fever,1,0.081866558
+2017,Terengganu,Diphteria,1,0.081866558
+2017,Terengganu,Dysentry ,3,0.245599673
+2017,Terengganu,Food poisoning,578,47.31887024
+2017,Terengganu,Gonorrhoea,32,2.61972984
+2017,Terengganu,H.I.V,74,6.058125256
+2017,Terengganu,"Hand, Foot and Mouth Disease",281,23.00450266
+2017,Terengganu,Hepatitis A,1,0.081866558
+2017,Terengganu,Hepatitis B,174,14.24478101
+2017,Terengganu,Hepatitis C,191,15.63651248
+2017,Terengganu,Leprosy,10,0.818665575
+2017,Terengganu,Leptospirosis,509,41.67007777
+2017,Terengganu,Malaria,22,1.801064265
+2017,Terengganu,Measles,18,1.473598035
+2017,Terengganu,Neonatal Tetanus ,,
+2017,Terengganu,Other Specified Viral,,
+2017,Terengganu,Other Tetanus,1,0.081866558
+2017,Terengganu,Pertusis,10,0.818665575
+2017,Terengganu,Syphillis,41,3.356528858
+2017,Terengganu,Tuberculosis,771,63.11911584
+2017,Terengganu,Typhoid,2,0.163733115
+2017,Terengganu,Typhus,1,0.081866558
+2017,Terengganu,Viral encephalitis,3,0.245599673
+2017,Terengganu,Whooping cough,,
+2017,W.P. Kuala Lumpur,A.I.D.S,154,7.883286409
+2017,W.P. Kuala Lumpur,Cholera,,
+2017,W.P. Kuala Lumpur,Dengue fever,8288,424.2641413
+2017,W.P. Kuala Lumpur,Dengue haemorrhagic fever,62,3.173790632
+2017,W.P. Kuala Lumpur,Diphteria,5,0.255950857
+2017,W.P. Kuala Lumpur,Dysentry ,8,0.409521372
+2017,W.P. Kuala Lumpur,Food poisoning,403,20.62963911
+2017,W.P. Kuala Lumpur,Gonorrhoea,294,15.04991042
+2017,W.P. Kuala Lumpur,H.I.V,464,23.75223957
+2017,W.P. Kuala Lumpur,"Hand, Foot and Mouth Disease",2359,120.7576145
+2017,W.P. Kuala Lumpur,Hepatitis A,9,0.460711543
+2017,W.P. Kuala Lumpur,Hepatitis B,309,15.81776299
+2017,W.P. Kuala Lumpur,Hepatitis C,103,5.272587663
+2017,W.P. Kuala Lumpur,Leprosy,10,0.511901715
+2017,W.P. Kuala Lumpur,Leptospirosis,167,8.548758638
+2017,W.P. Kuala Lumpur,Malaria,12,0.614282058
+2017,W.P. Kuala Lumpur,Measles,153,7.832096238
+2017,W.P. Kuala Lumpur,Neonatal Tetanus ,,
+2017,W.P. Kuala Lumpur,Other Specified Viral,,
+2017,W.P. Kuala Lumpur,Other Tetanus,,
+2017,W.P. Kuala Lumpur,Pertusis,19,0.972613258
+2017,W.P. Kuala Lumpur,Syphillis,320,16.38085488
+2017,W.P. Kuala Lumpur,Tuberculosis,2085,106.7315076
+2017,W.P. Kuala Lumpur,Typhoid,8,0.409521372
+2017,W.P. Kuala Lumpur,Typhus,,
+2017,W.P. Kuala Lumpur,Viral encephalitis,,
+2017,W.P. Kuala Lumpur,Whooping cough,,
+2017,W.P. Labuan,A.I.D.S,3,3.03030303
+2017,W.P. Labuan,Cholera,,
+2017,W.P. Labuan,Dengue fever,91,91.91919192
+2017,W.P. Labuan,Dengue haemorrhagic fever,,
+2017,W.P. Labuan,Diphteria,,
+2017,W.P. Labuan,Dysentry ,3,3.03030303
+2017,W.P. Labuan,Food poisoning,105,106.0606061
+2017,W.P. Labuan,Gonorrhoea,54,54.54545455
+2017,W.P. Labuan,H.I.V,16,16.16161616
+2017,W.P. Labuan,"Hand, Foot and Mouth Disease",274,276.7676768
+2017,W.P. Labuan,Hepatitis A,,
+2017,W.P. Labuan,Hepatitis B,32,32.32323232
+2017,W.P. Labuan,Hepatitis C,6,6.060606061
+2017,W.P. Labuan,Leprosy,1,1.01010101
+2017,W.P. Labuan,Leptospirosis,21,21.21212121
+2017,W.P. Labuan,Malaria,1,1.01010101
+2017,W.P. Labuan,Measles,4,4.04040404
+2017,W.P. Labuan,Neonatal Tetanus ,,
+2017,W.P. Labuan,Other Specified Viral,1,1.01010101
+2017,W.P. Labuan,Other Tetanus,,
+2017,W.P. Labuan,Pertusis,2,2.02020202
+2017,W.P. Labuan,Syphillis,12,12.12121212
+2017,W.P. Labuan,Tuberculosis,137,138.3838384
+2017,W.P. Labuan,Typhoid,,
+2017,W.P. Labuan,Typhus,,
+2017,W.P. Labuan,Viral encephalitis,,
+2017,W.P. Labuan,Whooping cough,,
+2018,Johor,A.I.D.S,23,2.02
+2018,Johor,Cholera,,
+2018,Johor,Dengue fever,5863,153.37
+2018,Johor,Dengue haemorrhagic fever,22,0.58
+2018,Johor,Diphteria,,
+2018,Johor,Dysentry ,11,0.29
+2018,Johor,Food poisoning,1489,38.95
+2018,Johor,Gonorrhoea,339,8.87
+2018,Johor,H.I.V,133,11.66
+2018,Johor,"Hand, Foot and Mouth Disease",3130,274.34
+2018,Johor,Hepatitis A,5,0.13
+2018,Johor,Hepatitis B,212,5.55
+2018,Johor,Hepatitis C,117,3.06
+2018,Johor,Leprosy,6,0.16
+2018,Johor,Leptospirosis,308,27
+2018,Johor,Malaria,64,1.67
+2018,Johor,Measles,118,3.09
+2018,Johor,Neonatal Tetanus ,,
+2018,Johor,Other Specified Viral,,
+2018,Johor,Other Tetanus,,
+2018,Johor,Pertusis,17,0.44
+2018,Johor,Syphillis,311,8.14
+2018,Johor,Tuberculosis,2150,56.24
+2018,Johor,Typhoid,19,0.5
+2018,Johor,Typhus,,
+2018,Johor,Viral encephalitis,,
+2018,Johor,Whooping cough,,
+2018,Kedah,A.I.D.S,37,2.17
+2018,Kedah,Cholera,,
+2018,Kedah,Dengue fever,2181,98.87
+2018,Kedah,Dengue haemorrhagic fever,9,0.41
+2018,Kedah,Diphteria,2,0.12
+2018,Kedah,Dysentry ,1,0.05
+2018,Kedah,Food poisoning,1226,55.58
+2018,Kedah,Gonorrhoea,134,6.07
+2018,Kedah,H.I.V,140,8.22
+2018,Kedah,"Hand, Foot and Mouth Disease",1683,98.84
+2018,Kedah,Hepatitis A,2,0.09
+2018,Kedah,Hepatitis B,140,6.35
+2018,Kedah,Hepatitis C,212,9.61
+2018,Kedah,Leprosy,7,0.33
+2018,Kedah,Leptospirosis,131,7.69
+2018,Kedah,Malaria,34,1.54
+2018,Kedah,Measles,40,1.81
+2018,Kedah,Neonatal Tetanus ,,
+2018,Kedah,Other Specified Viral,,
+2018,Kedah,Other Tetanus,5,0.23
+2018,Kedah,Pertusis,105,4.76
+2018,Kedah,Syphillis,109,4.94
+2018,Kedah,Tuberculosis,1336,60.56
+2018,Kedah,Typhoid,2,0.09
+2018,Kedah,Typhus,,
+2018,Kedah,Viral encephalitis,7,0.32
+2018,Kedah,Whooping cough,,
+2018,Kelantan,A.I.D.S,42,1.63
+2018,Kelantan,Cholera,,
+2018,Kelantan,Dengue fever,1944,103.16
+2018,Kelantan,Dengue haemorrhagic fever,6,0.32
+2018,Kelantan,Diphteria,,
+2018,Kelantan,Dysentry ,1,0.05
+2018,Kelantan,Food poisoning,681,36.14
+2018,Kelantan,Gonorrhoea,89,4.72
+2018,Kelantan,H.I.V,167,6.53
+2018,Kelantan,"Hand, Foot and Mouth Disease",6102,237.47
+2018,Kelantan,Hepatitis A,,
+2018,Kelantan,Hepatitis B,168,8.91
+2018,Kelantan,Hepatitis C,223,11.83
+2018,Kelantan,Leprosy,11,0.61
+2018,Kelantan,Leptospirosis,288,11.21
+2018,Kelantan,Malaria,135,7.16
+2018,Kelantan,Measles,54,2.87
+2018,Kelantan,Neonatal Tetanus ,,
+2018,Kelantan,Other Specified Viral,1,0.05
+2018,Kelantan,Other Tetanus,,
+2018,Kelantan,Pertusis,73,3.87
+2018,Kelantan,Syphillis,126,6.69
+2018,Kelantan,Tuberculosis,1172,62.19
+2018,Kelantan,Typhoid,44,2.33
+2018,Kelantan,Typhus,,
+2018,Kelantan,Viral encephalitis,,
+2018,Kelantan,Whooping cough,,
+2018,Malaysia,A.I.D.S,100,10.7
+2018,Malaysia,Cholera,165,0.5
+2018,Malaysia,Dengue fever,80210,244.07
+2018,Malaysia,Dengue haemorrhagic fever,405,1.23
+2018,Malaysia,Diphteria,,
+2018,Malaysia,Dysentry ,164,0.5
+2018,Malaysia,Food poisoning,15023,45.71
+2018,Malaysia,Gonorrhoea,3130,9.52
+2018,Malaysia,H.I.V,78,8.35
+2018,Malaysia,"Hand, Foot and Mouth Disease",3021,323.24
+2018,Malaysia,Hepatitis A,100,0.3
+2018,Malaysia,Hepatitis B,4773,14.52
+2018,Malaysia,Hepatitis C,2842,8.65
+2018,Malaysia,Leprosy,182,0.57
+2018,Malaysia,Leptospirosis,181,19.37
+2018,Malaysia,Malaria,4630,14.09
+2018,Malaysia,Measles,1958,5.96
+2018,Malaysia,Neonatal Tetanus ,26,0.08
+2018,Malaysia,Other Specified Viral,7,0.02
+2018,Malaysia,Other Tetanus,31,0.09
+2018,Malaysia,Pertusis,892,2.71
+2018,Malaysia,Syphillis,3077,9.36
+2018,Malaysia,Tuberculosis,25837,78.62
+2018,Malaysia,Typhoid,173,0.53
+2018,Malaysia,Typhus,,
+2018,Malaysia,Viral encephalitis,34,0.1
+2018,Malaysia,Whooping cough,,
+2018,Melaka,A.I.D.S,5,1.93
+2018,Melaka,Cholera,,
+2018,Melaka,Dengue fever,718,76.82
+2018,Melaka,Dengue haemorrhagic fever,4,0.43
+2018,Melaka,Diphteria,,
+2018,Melaka,Dysentry ,,
+2018,Melaka,Food poisoning,895,95.76
+2018,Melaka,Gonorrhoea,101,10.81
+2018,Melaka,H.I.V,14,5.4
+2018,Melaka,"Hand, Foot and Mouth Disease",629,242.67
+2018,Melaka,Hepatitis A,3,0.32
+2018,Melaka,Hepatitis B,152,16.26
+2018,Melaka,Hepatitis C,32,3.42
+2018,Melaka,Leprosy,1,0.11
+2018,Melaka,Leptospirosis,11,4.24
+2018,Melaka,Malaria,7,0.75
+2018,Melaka,Measles,22,2.35
+2018,Melaka,Neonatal Tetanus ,,
+2018,Melaka,Other Specified Viral,,
+2018,Melaka,Other Tetanus,,
+2018,Melaka,Pertusis,31,3.32
+2018,Melaka,Syphillis,103,11.02
+2018,Melaka,Tuberculosis,622,66.55
+2018,Melaka,Typhoid,,
+2018,Melaka,Typhus,,
+2018,Melaka,Viral encephalitis,1,0.11
+2018,Melaka,Whooping cough,,
+2018,Negeri Sembilan,A.I.D.S,12,0.68
+2018,Negeri Sembilan,Cholera,,
+2018,Negeri Sembilan,Dengue fever,1856,162.68
+2018,Negeri Sembilan,Dengue haemorrhagic fever,8,0.7
+2018,Negeri Sembilan,Diphteria,1,0.06
+2018,Negeri Sembilan,Dysentry ,2,0.18
+2018,Negeri Sembilan,Food poisoning,716,62.76
+2018,Negeri Sembilan,Gonorrhoea,89,7.8
+2018,Negeri Sembilan,H.I.V,233,13.18
+2018,Negeri Sembilan,"Hand, Foot and Mouth Disease",5248,296.97
+2018,Negeri Sembilan,Hepatitis A,2,0.18
+2018,Negeri Sembilan,Hepatitis B,195,17.09
+2018,Negeri Sembilan,Hepatitis C,322,28.22
+2018,Negeri Sembilan,Leprosy,5,0.44
+2018,Negeri Sembilan,Leptospirosis,95,5.38
+2018,Negeri Sembilan,Malaria,41,3.59
+2018,Negeri Sembilan,Measles,22,1.93
+2018,Negeri Sembilan,Neonatal Tetanus ,,
+2018,Negeri Sembilan,Other Specified Viral,,
+2018,Negeri Sembilan,Other Tetanus,,
+2018,Negeri Sembilan,Pertusis,19,1.67
+2018,Negeri Sembilan,Syphillis,83,7.27
+2018,Negeri Sembilan,Tuberculosis,591,51.8
+2018,Negeri Sembilan,Typhoid,,
+2018,Negeri Sembilan,Typhus,,
+2018,Negeri Sembilan,Viral encephalitis,1,0.09
+2018,Negeri Sembilan,Whooping cough,,
+2018,Pahang,A.I.D.S,65,1.66
+2018,Pahang,Cholera,,
+2018,Pahang,Dengue fever,986,57.9
+2018,Pahang,Dengue haemorrhagic fever,4,0.23
+2018,Pahang,Diphteria,7,0.18
+2018,Pahang,Dysentry ,23,1.35
+2018,Pahang,Food poisoning,903,53.03
+2018,Pahang,Gonorrhoea,135,7.93
+2018,Pahang,H.I.V,211,5.38
+2018,Pahang,"Hand, Foot and Mouth Disease",5062,129.15
+2018,Pahang,Hepatitis A,1,0.06
+2018,Pahang,Hepatitis B,260,15.27
+2018,Pahang,Hepatitis C,332,19.5
+2018,Pahang,Leprosy,17,1
+2018,Pahang,Leptospirosis,190,4.85
+2018,Pahang,Malaria,123,7.22
+2018,Pahang,Measles,25,1.47
+2018,Pahang,Neonatal Tetanus ,,
+2018,Pahang,Other Specified Viral,,
+2018,Pahang,Other Tetanus,2,0.12
+2018,Pahang,Pertusis,55,3.23
+2018,Pahang,Syphillis,109,6.4
+2018,Pahang,Tuberculosis,940,55.2
+2018,Pahang,Typhoid,3,0.18
+2018,Pahang,Typhus,,
+2018,Pahang,Viral encephalitis,,
+2018,Pahang,Whooping cough,,
+2018,Perak,A.I.D.S,147,5.2
+2018,Perak,Cholera,,
+2018,Perak,Dengue fever,2721,105.89
+2018,Perak,Dengue haemorrhagic fever,15,0.58
+2018,Perak,Diphteria,1,0.04
+2018,Perak,Dysentry ,4,0.16
+2018,Perak,Food poisoning,853,33.2
+2018,Perak,Gonorrhoea,52,2.02
+2018,Perak,H.I.V,274,9.68
+2018,Perak,"Hand, Foot and Mouth Disease",8518,301.06
+2018,Perak,Hepatitis A,4,0.16
+2018,Perak,Hepatitis B,251,9.77
+2018,Perak,Hepatitis C,112,4.36
+2018,Perak,Leprosy,6,0.24
+2018,Perak,Leptospirosis,870,30.75
+2018,Perak,Malaria,184,7.16
+2018,Perak,Measles,54,2.1
+2018,Perak,Neonatal Tetanus ,,
+2018,Perak,Other Specified Viral,,
+2018,Perak,Other Tetanus,,
+2018,Perak,Pertusis,36,1.4
+2018,Perak,Syphillis,140,5.45
+2018,Perak,Tuberculosis,1546,60.17
+2018,Perak,Typhoid,6,0.23
+2018,Perak,Typhus,,
+2018,Perak,Viral encephalitis,6,0.23
+2018,Perak,Whooping cough,,
+2018,Perlis,A.I.D.S,123,1.89
+2018,Perlis,Cholera,,
+2018,Perlis,Dengue fever,369,142.36
+2018,Perlis,Dengue haemorrhagic fever,,
+2018,Perlis,Diphteria,2,0
+2018,Perlis,Dysentry ,,
+2018,Perlis,Food poisoning,56,21.6
+2018,Perlis,Gonorrhoea,20,7.72
+2018,Perlis,H.I.V,923,14.18
+2018,Perlis,"Hand, Foot and Mouth Disease",21282,326.94
+2018,Perlis,Hepatitis A,1,0.39
+2018,Perlis,Hepatitis B,10,3.86
+2018,Perlis,Hepatitis C,38,14.66
+2018,Perlis,Leprosy,2,0.79
+2018,Perlis,Leptospirosis,673,10.34
+2018,Perlis,Malaria,1,0.39
+2018,Perlis,Measles,3,1.16
+2018,Perlis,Neonatal Tetanus ,,
+2018,Perlis,Other Specified Viral,,
+2018,Perlis,Other Tetanus,,
+2018,Perlis,Pertusis,10,3.86
+2018,Perlis,Syphillis,16,6.17
+2018,Perlis,Tuberculosis,134,51.7
+2018,Perlis,Typhoid,,
+2018,Perlis,Typhus,,
+2018,Perlis,Viral encephalitis,,
+2018,Perlis,Whooping cough,,
+2018,Pulau Pinang,A.I.D.S,49,3.93
+2018,Pulau Pinang,Cholera,,
+2018,Pulau Pinang,Dengue fever,6052,342.46
+2018,Pulau Pinang,Dengue haemorrhagic fever,19,1.08
+2018,Pulau Pinang,Diphteria,,
+2018,Pulau Pinang,Dysentry ,,
+2018,Pulau Pinang,Food poisoning,1158,65.53
+2018,Pulau Pinang,Gonorrhoea,33,1.87
+2018,Pulau Pinang,H.I.V,82,6.58
+2018,Pulau Pinang,"Hand, Foot and Mouth Disease",1278,102.62
+2018,Pulau Pinang,Hepatitis A,1,0.06
+2018,Pulau Pinang,Hepatitis B,53,3
+2018,Pulau Pinang,Hepatitis C,75,4.24
+2018,Pulau Pinang,Leprosy,7,0.41
+2018,Pulau Pinang,Leptospirosis,507,40.71
+2018,Pulau Pinang,Malaria,6,0.34
+2018,Pulau Pinang,Measles,11,0.62
+2018,Pulau Pinang,Neonatal Tetanus ,,
+2018,Pulau Pinang,Other Specified Viral,1,0.06
+2018,Pulau Pinang,Other Tetanus,,
+2018,Pulau Pinang,Pertusis,27,1.53
+2018,Pulau Pinang,Syphillis,175,9.9
+2018,Pulau Pinang,Tuberculosis,1228,69.49
+2018,Pulau Pinang,Typhoid,6,0.34
+2018,Pulau Pinang,Typhus,,
+2018,Pulau Pinang,Viral encephalitis,1,0.06
+2018,Pulau Pinang,Whooping cough,,
+2018,Sabah,A.I.D.S,110,5.58
+2018,Sabah,Cholera,163,4.16
+2018,Sabah,Dengue fever,3386,86.39
+2018,Sabah,Dengue haemorrhagic fever,37,0.94
+2018,Sabah,Diphteria,,
+2018,Sabah,Dysentry ,6,0.15
+2018,Sabah,Food poisoning,1641,41.87
+2018,Sabah,Gonorrhoea,350,8.93
+2018,Sabah,H.I.V,428,21.71
+2018,Sabah,"Hand, Foot and Mouth Disease",8290,420.43
+2018,Sabah,Hepatitis A,57,1.45
+2018,Sabah,Hepatitis B,1281,32.68
+2018,Sabah,Hepatitis C,48,1.22
+2018,Sabah,Leprosy,63,1.69
+2018,Sabah,Leptospirosis,112,5.68
+2018,Sabah,Malaria,2316,59.09
+2018,Sabah,Measles,74,1.89
+2018,Sabah,Neonatal Tetanus ,26,0.08
+2018,Sabah,Other Specified Viral,,
+2018,Sabah,Other Tetanus,17,0.43
+2018,Sabah,Pertusis,107,2.73
+2018,Sabah,Syphillis,272,6.94
+2018,Sabah,Tuberculosis,5008,127.77
+2018,Sabah,Typhoid,58,1.48
+2018,Sabah,Typhus,,
+2018,Sabah,Viral encephalitis,5,0.13
+2018,Sabah,Whooping cough,,
+2018,Sarawak,A.I.D.S,,
+2018,Sarawak,Cholera,,
+2018,Sarawak,Dengue fever,821,29.02
+2018,Sarawak,Dengue haemorrhagic fever,2,0.07
+2018,Sarawak,Diphteria,2,2
+2018,Sarawak,Dysentry ,5,0.18
+2018,Sarawak,Food poisoning,978,34.57
+2018,Sarawak,Gonorrhoea,818,28.91
+2018,Sarawak,H.I.V,15,14.94
+2018,Sarawak,"Hand, Foot and Mouth Disease",647,644.42
+2018,Sarawak,Hepatitis A,11,0.39
+2018,Sarawak,Hepatitis B,995,35.17
+2018,Sarawak,Hepatitis C,748,26.44
+2018,Sarawak,Leprosy,17,0.62
+2018,Sarawak,Leptospirosis,15,14.94
+2018,Sarawak,Malaria,1554,54.93
+2018,Sarawak,Measles,312,11.03
+2018,Sarawak,Neonatal Tetanus ,,
+2018,Sarawak,Other Specified Viral,,
+2018,Sarawak,Other Tetanus,1,0
+2018,Sarawak,Pertusis,51,1.8
+2018,Sarawak,Syphillis,538,19.02
+2018,Sarawak,Tuberculosis,3122,110.35
+2018,Sarawak,Typhoid,5,0.18
+2018,Sarawak,Typhus,,
+2018,Sarawak,Viral encephalitis,12,0.42
+2018,Sarawak,Whooping cough,,
+2018,Selangor,A.I.D.S,112,1.75
+2018,Selangor,Cholera,1,0.02
+2018,Selangor,Dengue fever,45205,694.46
+2018,Selangor,Dengue haemorrhagic fever,144,2.21
+2018,Selangor,Diphteria,12,0.19
+2018,Selangor,Dysentry ,78,1.2
+2018,Selangor,Food poisoning,3120,47.93
+2018,Selangor,Gonorrhoea,534,8.2
+2018,Selangor,H.I.V,968,15.12
+2018,Selangor,"Hand, Foot and Mouth Disease",7447,116.34
+2018,Selangor,Hepatitis A,10,0.15
+2018,Selangor,Hepatitis B,730,11.21
+2018,Selangor,Hepatitis C,379,5.82
+2018,Selangor,Leprosy,26,0.43
+2018,Selangor,Leptospirosis,697,10.89
+2018,Selangor,Malaria,102,1.57
+2018,Selangor,Measles,860,13.21
+2018,Selangor,Neonatal Tetanus ,,
+2018,Selangor,Other Specified Viral,1,0.02
+2018,Selangor,Other Tetanus,5,0.08
+2018,Selangor,Pertusis,228,3.5
+2018,Selangor,Syphillis,662,10.17
+2018,Selangor,Tuberculosis,5071,77.9
+2018,Selangor,Typhoid,13,0.2
+2018,Selangor,Typhus,4,0.06
+2018,Selangor,Viral encephalitis,1,0.02
+2018,Selangor,Whooping cough,,
+2018,Terengganu,A.I.D.S,57,4.67
+2018,Terengganu,Cholera,,
+2018,Terengganu,Dengue fever,546,43.84
+2018,Terengganu,Dengue haemorrhagic fever,4,0.32
+2018,Terengganu,Diphteria,1,0.08
+2018,Terengganu,Dysentry ,2,0.16
+2018,Terengganu,Food poisoning,413,33.16
+2018,Terengganu,Gonorrhoea,69,5.54
+2018,Terengganu,H.I.V,74,6.06
+2018,Terengganu,"Hand, Foot and Mouth Disease",281,23
+2018,Terengganu,Hepatitis A,,
+2018,Terengganu,Hepatitis B,108,8.67
+2018,Terengganu,Hepatitis C,88,7.07
+2018,Terengganu,Leprosy,9,0.74
+2018,Terengganu,Leptospirosis,509,41.67
+2018,Terengganu,Malaria,45,3.61
+2018,Terengganu,Measles,186,14.93
+2018,Terengganu,Neonatal Tetanus ,,
+2018,Terengganu,Other Specified Viral,,
+2018,Terengganu,Other Tetanus,,
+2018,Terengganu,Pertusis,75,6.02
+2018,Terengganu,Syphillis,38,3.05
+2018,Terengganu,Tuberculosis,777,62.39
+2018,Terengganu,Typhoid,1,0.08
+2018,Terengganu,Typhus,1,0.08
+2018,Terengganu,Viral encephalitis,,
+2018,Terengganu,Whooping cough,,
+2018,W.P. Kuala Lumpur,A.I.D.S,154,7.88
+2018,W.P. Kuala Lumpur,Cholera,1,0
+2018,W.P. Kuala Lumpur,Dengue fever,7460,378.33
+2018,W.P. Kuala Lumpur,Dengue haemorrhagic fever,131,6.64
+2018,W.P. Kuala Lumpur,Diphteria,5,0.26
+2018,W.P. Kuala Lumpur,Dysentry ,30,1.52
+2018,W.P. Kuala Lumpur,Food poisoning,723,36.67
+2018,W.P. Kuala Lumpur,Gonorrhoea,327,16.58
+2018,W.P. Kuala Lumpur,H.I.V,464,23.75
+2018,W.P. Kuala Lumpur,"Hand, Foot and Mouth Disease",2359,120.76
+2018,W.P. Kuala Lumpur,Hepatitis A,2,0.1
+2018,W.P. Kuala Lumpur,Hepatitis B,208,10.55
+2018,W.P. Kuala Lumpur,Hepatitis C,116,5.88
+2018,W.P. Kuala Lumpur,Leprosy,5,0.26
+2018,W.P. Kuala Lumpur,Leptospirosis,167,8.55
+2018,W.P. Kuala Lumpur,Malaria,18,0.91
+2018,W.P. Kuala Lumpur,Measles,172,8.72
+2018,W.P. Kuala Lumpur,Neonatal Tetanus ,,
+2018,W.P. Kuala Lumpur,Other Specified Viral,3,0.15
+2018,W.P. Kuala Lumpur,Other Tetanus,1,0.05
+2018,W.P. Kuala Lumpur,Pertusis,54,2.74
+2018,W.P. Kuala Lumpur,Syphillis,367,18.61
+2018,W.P. Kuala Lumpur,Tuberculosis,2017,102.29
+2018,W.P. Kuala Lumpur,Typhoid,16,0.81
+2018,W.P. Kuala Lumpur,Typhus,,
+2018,W.P. Kuala Lumpur,Viral encephalitis,,
+2018,W.P. Kuala Lumpur,Whooping cough,,
+2018,W.P. Labuan,A.I.D.S,3,3.03
+2018,W.P. Labuan,Cholera,,
+2018,W.P. Labuan,Dengue fever,102,101.59
+2018,W.P. Labuan,Dengue haemorrhagic fever,,
+2018,W.P. Labuan,Diphteria,,
+2018,W.P. Labuan,Dysentry ,1,1
+2018,W.P. Labuan,Food poisoning,171,170.32
+2018,W.P. Labuan,Gonorrhoea,40,39.84
+2018,W.P. Labuan,H.I.V,16,16.16
+2018,W.P. Labuan,"Hand, Foot and Mouth Disease",274,276.77
+2018,W.P. Labuan,Hepatitis A,1,1
+2018,W.P. Labuan,Hepatitis B,10,9.96
+2018,W.P. Labuan,Hepatitis C,,
+2018,W.P. Labuan,Leprosy,,
+2018,W.P. Labuan,Leptospirosis,21,21.21
+2018,W.P. Labuan,Malaria,,
+2018,W.P. Labuan,Measles,5,4.98
+2018,W.P. Labuan,Neonatal Tetanus ,,
+2018,W.P. Labuan,Other Specified Viral,1,1
+2018,W.P. Labuan,Other Tetanus,,
+2018,W.P. Labuan,Pertusis,4,3.98
+2018,W.P. Labuan,Syphillis,28,27.89
+2018,W.P. Labuan,Tuberculosis,123,122.51
+2018,W.P. Labuan,Typhoid,,
+2018,W.P. Labuan,Typhus,,
+2018,W.P. Labuan,Viral encephalitis,,
+2018,W.P. Labuan,Whooping cough,,
+2016,Johor,A.I.D.S,156,4.27
+2016,Johor,Cholera,-,-
+2016,Johor,Dengue fever,10613,290.36
+2016,Johor,Dengue haemorrhagic fever,28,0.77
+2016,Johor,Diphteria,-,-
+2016,Johor,Dysentry ,7,0.19
+2016,Johor,Food poisoning,2213,60.55
+2016,Johor,Gonorrhoea,330,9.03
+2016,Johor,H.I.V,321,8.78
+2016,Johor,"Hand, Foot and Mouth Disease",4025,110.12
+2016,Johor,Hepatitis A,6,0.16
+2016,Johor,Hepatitis B,245,6.7
+2016,Johor,Hepatitis C,175,4.79
+2016,Johor,Leprosy,9,0.25
+2016,Johor,Leptospirosis,207,5.66
+2016,Johor,Malaria,41,1.12
+2016,Johor,Measles,239,6.54
+2016,Johor,Neonatal Tetanus ,-,-
+2016,Johor,Other Specified Viral,2,0.05
+2016,Johor,Other Tetanus,1,0.03
+2016,Johor,Pertusis,10,0.27
+2016,Johor,Syphillis,209,5.72
+2016,Johor,Tuberculosis,2325,63.61
+2016,Johor,Typhoid,8,0.22
+2016,Johor,Typhus,-,-
+2016,Johor,Viral encephalitis,1,0.03
+2016,Kedah,A.I.D.S,54,2.55
+2016,Kedah,Cholera,-,-
+2016,Kedah,Dengue fever,985,46.45
+2016,Kedah,Dengue haemorrhagic fever,9,0.42
+2016,Kedah,Diphteria,11,0.52
+2016,Kedah,Dysentry ,13,0.61
+2016,Kedah,Food poisoning,1300,61.3
+2016,Kedah,Gonorrhoea,78,3.68
+2016,Kedah,H.I.V,171,8.06
+2016,Kedah,"Hand, Foot and Mouth Disease",1716,80.92
+2016,Kedah,Hepatitis A,1,0.05
+2016,Kedah,Hepatitis B,88,4.15
+2016,Kedah,Hepatitis C,153,7.21
+2016,Kedah,Leprosy,8,0.38
+2016,Kedah,Leptospirosis,410,19.33
+2016,Kedah,Malaria,9,0.42
+2016,Kedah,Measles,65,3.07
+2016,Kedah,Neonatal Tetanus ,-,-
+2016,Kedah,Other Specified Viral,1,0.05
+2016,Kedah,Other Tetanus,2,0.09
+2016,Kedah,Pertusis,36,1.7
+2016,Kedah,Syphillis,71,3.35
+2016,Kedah,Tuberculosis,1283,60.5
+2016,Kedah,Typhoid,4,0.19
+2016,Kedah,Typhus,-,-
+2016,Kedah,Viral encephalitis,2,0.09
+2016,Kelantan,A.I.D.S,161,8.96
+2016,Kelantan,Cholera,-,-
+2016,Kelantan,Dengue fever,6162,342.87
+2016,Kelantan,Dengue haemorrhagic fever,18,1
+2016,Kelantan,Diphteria,-,-
+2016,Kelantan,Dysentry ,4,0.22
+2016,Kelantan,Food poisoning,1053,58.59
+2016,Kelantan,Gonorrhoea,65,3.62
+2016,Kelantan,H.I.V,189,10.52
+2016,Kelantan,"Hand, Foot and Mouth Disease",1007,56.03
+2016,Kelantan,Hepatitis A,1,0.06
+2016,Kelantan,Hepatitis B,178,9.9
+2016,Kelantan,Hepatitis C,300,16.69
+2016,Kelantan,Leprosy,8,0.45
+2016,Kelantan,Leptospirosis,863,48.02
+2016,Kelantan,Malaria,111,6.18
+2016,Kelantan,Measles,43,2.39
+2016,Kelantan,Neonatal Tetanus ,-,-
+2016,Kelantan,Other Specified Viral,2,0.11
+2016,Kelantan,Other Tetanus,-,-
+2016,Kelantan,Pertusis,19,1.06
+2016,Kelantan,Syphillis,72,4.01
+2016,Kelantan,Tuberculosis,1254,69.78
+2016,Kelantan,Typhoid,60,3.34
+2016,Kelantan,Typhus,-,-
+2016,Kelantan,Viral encephalitis,1,0.06
+2016,Malaysia,A.I.D.S,1222,3.86
+2016,Malaysia,Cholera,170,0.54
+2016,Malaysia,Dengue fever,100722,318.13
+2016,Malaysia,Dengue haemorrhagic fever,635,2.01
+2016,Malaysia,Diphteria,31,0.1
+2016,Malaysia,Dysentry ,126,0.4
+2016,Malaysia,Food poisoning,17480,55.21
+2016,Malaysia,Gonorrhoea,2886,9.12
+2016,Malaysia,H.I.V,3397,10.73
+2016,Malaysia,"Hand, Foot and Mouth Disease",47008,148.47
+2016,Malaysia,Hepatitis A,85,0.27
+2016,Malaysia,Hepatitis B,3890,12.29
+2016,Malaysia,Hepatitis C,2645,8.35
+2016,Malaysia,Leprosy,206,0.65
+2016,Malaysia,Leptospirosis,5285,16.69
+2016,Malaysia,Malaria,2302,7.27
+2016,Malaysia,Measles,1587,5.01
+2016,Malaysia,Neonatal Tetanus ,6,0.01
+2016,Malaysia,Other Specified Viral,26,0.08
+2016,Malaysia,Other Tetanus,17,0.05
+2016,Malaysia,Pertusis,298,0.94
+2016,Malaysia,Syphillis,2058,6.5
+2016,Malaysia,Tuberculosis,25739,81.3
+2016,Malaysia,Typhoid,181,0.57
+2016,Malaysia,Typhus,1,0
+2016,Malaysia,Viral encephalitis,51,0.16
+2016,Melaka,A.I.D.S,33,3.66
+2016,Melaka,Cholera,-,-
+2016,Melaka,Dengue fever,2302,255.3
+2016,Melaka,Dengue haemorrhagic fever,24,2.66
+2016,Melaka,Diphteria,3,0.33
+2016,Melaka,Dysentry ,-,-
+2016,Melaka,Food poisoning,966,107.13
+2016,Melaka,Gonorrhoea,88,9.76
+2016,Melaka,H.I.V,113,12.53
+2016,Melaka,"Hand, Foot and Mouth Disease",2202,244.21
+2016,Melaka,Hepatitis A,-,-
+2016,Melaka,Hepatitis B,100,11.09
+2016,Melaka,Hepatitis C,171,18.96
+2016,Melaka,Leprosy,1,0.11
+2016,Melaka,Leptospirosis,227,25.17
+2016,Melaka,Malaria,6,0.67
+2016,Melaka,Measles,49,5.43
+2016,Melaka,Neonatal Tetanus ,-,-
+2016,Melaka,Other Specified Viral,-,-
+2016,Melaka,Other Tetanus,-,-
+2016,Melaka,Pertusis,8,0.89
+2016,Melaka,Syphillis,75,8.32
+2016,Melaka,Tuberculosis,571,63.32
+2016,Melaka,Typhoid,1,0.11
+2016,Melaka,Typhus,-,-
+2016,Melaka,Viral encephalitis,1,0.11
+2016,Negeri Sembilan,A.I.D.S,35,3.18
+2016,Negeri Sembilan,Cholera,-,-
+2016,Negeri Sembilan,Dengue fever,2824,256.8
+2016,Negeri Sembilan,Dengue haemorrhagic fever,28,2.55
+2016,Negeri Sembilan,Diphteria,5,0.45
+2016,Negeri Sembilan,Dysentry ,1,0.09
+2016,Negeri Sembilan,Food poisoning,872,79.29
+2016,Negeri Sembilan,Gonorrhoea,78,7.09
+2016,Negeri Sembilan,H.I.V,117,10.64
+2016,Negeri Sembilan,"Hand, Foot and Mouth Disease",1383,125.76
+2016,Negeri Sembilan,Hepatitis A,1,0.09
+2016,Negeri Sembilan,Hepatitis B,103,9.37
+2016,Negeri Sembilan,Hepatitis C,358,32.55
+2016,Negeri Sembilan,Leprosy,5,0.45
+2016,Negeri Sembilan,Leptospirosis,169,15.37
+2016,Negeri Sembilan,Malaria,11,1
+2016,Negeri Sembilan,Measles,37,3.36
+2016,Negeri Sembilan,Neonatal Tetanus ,-,-
+2016,Negeri Sembilan,Other Specified Viral,-,-
+2016,Negeri Sembilan,Other Tetanus,-,-
+2016,Negeri Sembilan,Pertusis,14,1.27
+2016,Negeri Sembilan,Syphillis,60,5.46
+2016,Negeri Sembilan,Tuberculosis,641,58.29
+2016,Negeri Sembilan,Typhoid,3,0.27
+2016,Negeri Sembilan,Typhus,-,-
+2016,Negeri Sembilan,Viral encephalitis,3,0.27
+2016,Pahang,A.I.D.S,108,6.63
+2016,Pahang,Cholera,-,-
+2016,Pahang,Dengue fever,3036,186.48
+2016,Pahang,Dengue haemorrhagic fever,14,0.86
+2016,Pahang,Diphteria,-,-
+2016,Pahang,Dysentry ,22,1.35
+2016,Pahang,Food poisoning,1333,81.87
+2016,Pahang,Gonorrhoea,121,7.43
+2016,Pahang,H.I.V,212,13.02
+2016,Pahang,"Hand, Foot and Mouth Disease",822,50.49
+2016,Pahang,Hepatitis A,1,0.06
+2016,Pahang,Hepatitis B,240,14.74
+2016,Pahang,Hepatitis C,274,16.83
+2016,Pahang,Leprosy,24,1.47
+2016,Pahang,Leptospirosis,239,14.68
+2016,Pahang,Malaria,40,2.46
+2016,Pahang,Measles,35,2.15
+2016,Pahang,Neonatal Tetanus ,-,-
+2016,Pahang,Other Specified Viral,-,-
+2016,Pahang,Other Tetanus,1,0.06
+2016,Pahang,Pertusis,22,1.35
+2016,Pahang,Syphillis,64,3.93
+2016,Pahang,Tuberculosis,936,57.49
+2016,Pahang,Typhoid,1,0.06
+2016,Pahang,Typhus,1,0.06
+2016,Pahang,Viral encephalitis,1,0.06
+2016,Perak,A.I.D.S,77,3.1
+2016,Perak,Cholera,-,-
+2016,Perak,Dengue fever,3748,150.95
+2016,Perak,Dengue haemorrhagic fever,29,1.17
+2016,Perak,Diphteria,1,0.04
+2016,Perak,Dysentry ,9,0.36
+2016,Perak,Food poisoning,1675,67.46
+2016,Perak,Gonorrhoea,53,2.13
+2016,Perak,H.I.V,119,4.79
+2016,Perak,"Hand, Foot and Mouth Disease",2807,113.05
+2016,Perak,Hepatitis A,4,0.16
+2016,Perak,Hepatitis B,145,5.84
+2016,Perak,Hepatitis C,95,3.83
+2016,Perak,Leprosy,7,0.28
+2016,Perak,Leptospirosis,340,13.69
+2016,Perak,Malaria,184,7.41
+2016,Perak,Measles,23,0.93
+2016,Perak,Neonatal Tetanus ,-,-
+2016,Perak,Other Specified Viral,1,0.04
+2016,Perak,Other Tetanus,-,-
+2016,Perak,Pertusis,12,0.48
+2016,Perak,Syphillis,87,3.5
+2016,Perak,Tuberculosis,1666,67.1
+2016,Perak,Typhoid,9,0.36
+2016,Perak,Typhus,-,-
+2016,Perak,Viral encephalitis,6,0.24
+2016,Perlis,A.I.D.S,21,8.37
+2016,Perlis,Cholera,-,-
+2016,Perlis,Dengue fever,182,72.51
+2016,Perlis,Dengue haemorrhagic fever,1,0.4
+2016,Perlis,Diphteria,-,-
+2016,Perlis,Dysentry ,-,-
+2016,Perlis,Food poisoning,382,152.19
+2016,Perlis,Gonorrhoea,18,7.17
+2016,Perlis,H.I.V,34,13.55
+2016,Perlis,"Hand, Foot and Mouth Disease",579,230.68
+2016,Perlis,Hepatitis A,-,-
+2016,Perlis,Hepatitis B,17,6.77
+2016,Perlis,Hepatitis C,46,18.33
+2016,Perlis,Leprosy,2,0.8
+2016,Perlis,Leptospirosis,11,4.38
+2016,Perlis,Malaria,1,0.4
+2016,Perlis,Measles,9,3.59
+2016,Perlis,Neonatal Tetanus ,-,-
+2016,Perlis,Other Specified Viral,-,-
+2016,Perlis,Other Tetanus,-,-
+2016,Perlis,Pertusis,6,2.39
+2016,Perlis,Syphillis,7,2.79
+2016,Perlis,Tuberculosis,133,52.99
+2016,Perlis,Typhoid,-,-
+2016,Perlis,Typhus,-,-
+2016,Perlis,Viral encephalitis,-,-
+2016,Pulau Pinang,A.I.D.S,26,1.51
+2016,Pulau Pinang,Cholera,-,-
+2016,Pulau Pinang,Dengue fever,2562,149.01
+2016,Pulau Pinang,Dengue haemorrhagic fever,14,0.81
+2016,Pulau Pinang,Diphteria,1,0.06
+2016,Pulau Pinang,Dysentry ,-,-
+2016,Pulau Pinang,Food poisoning,609,35.42
+2016,Pulau Pinang,Gonorrhoea,16,0.93
+2016,Pulau Pinang,H.I.V,81,4.71
+2016,Pulau Pinang,"Hand, Foot and Mouth Disease",3019,175.59
+2016,Pulau Pinang,Hepatitis A,-,-
+2016,Pulau Pinang,Hepatitis B,22,1.28
+2016,Pulau Pinang,Hepatitis C,50,2.91
+2016,Pulau Pinang,Leprosy,7,0.41
+2016,Pulau Pinang,Leptospirosis,42,2.44
+2016,Pulau Pinang,Malaria,3,0.17
+2016,Pulau Pinang,Measles,7,0.414
+2016,Pulau Pinang,Neonatal Tetanus ,-,-
+2016,Pulau Pinang,Other Specified Viral,1,0.06
+2016,Pulau Pinang,Other Tetanus,2,0.12
+2016,Pulau Pinang,Pertusis,9,0.52
+2016,Pulau Pinang,Syphillis,66,3.84
+2016,Pulau Pinang,Tuberculosis,1385,80.56
+2016,Pulau Pinang,Typhoid,4,0.23
+2016,Pulau Pinang,Typhus,-,-
+2016,Pulau Pinang,Viral encephalitis,2,0.12
+2016,Sabah,A.I.D.S,125,3.28
+2016,Sabah,Cholera,113,2.96
+2016,Sabah,Dengue fever,3658,95.93
+2016,Sabah,Dengue haemorrhagic fever,10,0.26
+2016,Sabah,Diphteria,7,0.18
+2016,Sabah,Dysentry ,-,-
+2016,Sabah,Food poisoning,1721,45.13
+2016,Sabah,Gonorrhoea,319,8.37
+2016,Sabah,H.I.V,256,6.71
+2016,Sabah,"Hand, Foot and Mouth Disease",2613,68.53
+2016,Sabah,Hepatitis A,38,1
+2016,Sabah,Hepatitis B,1369,35.9
+2016,Sabah,Hepatitis C,58,1.52
+2016,Sabah,Leprosy,67,1.76
+2016,Sabah,Leptospirosis,174,4.56
+2016,Sabah,Malaria,717,18.8
+2016,Sabah,Measles,230,6.03
+2016,Sabah,Neonatal Tetanus ,6,0.11
+2016,Sabah,Other Specified Viral,17,0.45
+2016,Sabah,Other Tetanus,5,0.13
+2016,Sabah,Pertusis,27,0.71
+2016,Sabah,Syphillis,210,5.51
+2016,Sabah,Tuberculosis,4953,129.89
+2016,Sabah,Typhoid,49,1.29
+2016,Sabah,Typhus,1,0.03
+2016,Sabah,Viral encephalitis,19,0.5
+2016,Sarawak,A.I.D.S,137,5
+2016,Sarawak,Cholera,56,2.04
+2016,Sarawak,Dengue fever,2763,100.8
+2016,Sarawak,Dengue haemorrhagic fever,10,0.36
+2016,Sarawak,Diphteria,-,-
+2016,Sarawak,Dysentry ,2,0.07
+2016,Sarawak,Food poisoning,808,29.48
+2016,Sarawak,Gonorrhoea,654,23.86
+2016,Sarawak,H.I.V,258,9.41
+2016,Sarawak,"Hand, Foot and Mouth Disease",6629,241.85
+2016,Sarawak,Hepatitis A,6,0.22
+2016,Sarawak,Hepatitis B,415,15.14
+2016,Sarawak,Hepatitis C,335,12.22
+2016,Sarawak,Leprosy,18,0.66
+2016,Sarawak,Leptospirosis,844,30.79
+2016,Sarawak,Malaria,1064,38.82
+2016,Sarawak,Measles,26,0.95
+2016,Sarawak,Neonatal Tetanus ,-,-
+2016,Sarawak,Other Specified Viral,-,-
+2016,Sarawak,Other Tetanus,-,-
+2016,Sarawak,Pertusis,25,0.91
+2016,Sarawak,Syphillis,233,8.5
+2016,Sarawak,Tuberculosis,2857,104.23
+2016,Sarawak,Typhoid,1,0.04
+2016,Sarawak,Typhus,1,0.04
+2016,Sarawak,Viral encephalitis,13,0.47
+2016,Selangor,A.I.D.S,105,1.67
+2016,Selangor,Cholera,1,0.02
+2016,Selangor,Dengue fever,51293,814.38
+2016,Selangor,Dengue haemorrhagic fever,359,5.7
+2016,Selangor,Diphteria,3,0.05
+2016,Selangor,Dysentry ,60,0.95
+2016,Selangor,Food poisoning,2924,46.42
+2016,Selangor,Gonorrhoea,620,9.84
+2016,Selangor,H.I.V,888,14.1
+2016,Selangor,"Hand, Foot and Mouth Disease",15074,239.33
+2016,Selangor,Hepatitis A,16,0.25
+2016,Selangor,Hepatitis B,539,8.56
+2016,Selangor,Hepatitis C,287,4.56
+2016,Selangor,Leprosy,32,0.51
+2016,Selangor,Leptospirosis,847,13.45
+2016,Selangor,Malaria,91,1.44
+2016,Selangor,Measles,668,10.61
+2016,Selangor,Neonatal Tetanus ,-,-
+2016,Selangor,Other Specified Viral,1,0.02
+2016,Selangor,Other Tetanus,4,0.06
+2016,Selangor,Pertusis,85,1.35
+2016,Selangor,Syphillis,584,9.27
+2016,Selangor,Tuberculosis,4930,78.27
+2016,Selangor,Typhoid,19,0.3
+2016,Selangor,Typhus,-,-
+2016,Selangor,Viral encephalitis,-,-
+2016,Terengganu,A.I.D.S,81,6.84
+2016,Terengganu,Cholera,-,-
+2016,Terengganu,Dengue fever,1989,168
+2016,Terengganu,Dengue haemorrhagic fever,20,1.69
+2016,Terengganu,Diphteria,-,-
+2016,Terengganu,Dysentry ,3,0.25
+2016,Terengganu,Food poisoning,907,76.61
+2016,Terengganu,Gonorrhoea,20,1.69
+2016,Terengganu,H.I.V,134,11.32
+2016,Terengganu,"Hand, Foot and Mouth Disease",811,68.5
+2016,Terengganu,Hepatitis A,-,-
+2016,Terengganu,Hepatitis B,116,9.8
+2016,Terengganu,Hepatitis C,238,20.1
+2016,Terengganu,Leprosy,8,0.68
+2016,Terengganu,Leptospirosis,691,58.37
+2016,Terengganu,Malaria,9,0.76
+2016,Terengganu,Measles,50,4.22
+2016,Terengganu,Neonatal Tetanus ,-,-
+2016,Terengganu,Other Specified Viral,-,-
+2016,Terengganu,Other Tetanus,1,0.08
+2016,Terengganu,Pertusis,12,1.01
+2016,Terengganu,Syphillis,29,2.45
+2016,Terengganu,Tuberculosis,769,64.95
+2016,Terengganu,Typhoid,5,0.42
+2016,Terengganu,Typhus,-,-
+2016,Terengganu,Viral encephalitis,1,0.08
+2016,W.P. Kuala Lumpur,A.I.D.S,102,5.45
+2016,W.P. Kuala Lumpur,Cholera,-,-
+2016,W.P. Kuala Lumpur,Dengue fever,8592,459.34
+2016,W.P. Kuala Lumpur,Dengue haemorrhagic fever,71,3.8
+2016,W.P. Kuala Lumpur,Diphteria,-,-
+2016,W.P. Kuala Lumpur,Dysentry ,3,0.16
+2016,W.P. Kuala Lumpur,Food poisoning,717,38.33
+2016,W.P. Kuala Lumpur,Gonorrhoea,405,21.65
+2016,W.P. Kuala Lumpur,H.I.V,499,26.68
+2016,W.P. Kuala Lumpur,"Hand, Foot and Mouth Disease",4071,217.64
+2016,W.P. Kuala Lumpur,Hepatitis A,10,0.53
+2016,W.P. Kuala Lumpur,Hepatitis B,279,14.92
+2016,W.P. Kuala Lumpur,Hepatitis C,104,5.56
+2016,W.P. Kuala Lumpur,Leprosy,10,0.53
+2016,W.P. Kuala Lumpur,Leptospirosis,179,9.57
+2016,W.P. Kuala Lumpur,Malaria,15,80
+2016,W.P. Kuala Lumpur,Measles,106,5.67
+2016,W.P. Kuala Lumpur,Neonatal Tetanus ,-,-
+2016,W.P. Kuala Lumpur,Other Specified Viral,1,0.05
+2016,W.P. Kuala Lumpur,Other Tetanus,1,0.05
+2016,W.P. Kuala Lumpur,Pertusis,13,0.7
+2016,W.P. Kuala Lumpur,Syphillis,284,15.18
+2016,W.P. Kuala Lumpur,Tuberculosis,1903,101.74
+2016,W.P. Kuala Lumpur,Typhoid,13,0.7
+2016,W.P. Kuala Lumpur,Typhus,-,-
+2016,W.P. Kuala Lumpur,Viral encephalitis,1,0.05
+2016,W.P. Labuan,A.I.D.S,1,1.02
+2016,W.P. Labuan,Cholera,-,-
+2016,W.P. Labuan,Dengue fever,13,13.29
+2016,W.P. Labuan,Dengue haemorrhagic fever,-,-
+2016,W.P. Labuan,Diphteria,-,-
+2016,W.P. Labuan,Dysentry ,2,2.04
+2016,W.P. Labuan,Food poisoning,-,-
+2016,W.P. Labuan,Gonorrhoea,21,21.47
+2016,W.P. Labuan,H.I.V,5,5.11
+2016,W.P. Labuan,"Hand, Foot and Mouth Disease",250,255.62
+2016,W.P. Labuan,Hepatitis A,1,1.02
+2016,W.P. Labuan,Hepatitis B,34,34.76
+2016,W.P. Labuan,Hepatitis C,1,1.02
+2016,W.P. Labuan,Leprosy,-,-
+2016,W.P. Labuan,Leptospirosis,42,42.94
+2016,W.P. Labuan,Malaria,-,-
+2016,W.P. Labuan,Measles,-,-
+2016,W.P. Labuan,Neonatal Tetanus ,-,-
+2016,W.P. Labuan,Other Specified Viral,-,-
+2016,W.P. Labuan,Other Tetanus,-,-
+2016,W.P. Labuan,Pertusis,-,-
+2016,W.P. Labuan,Syphillis,7,7.16
+2016,W.P. Labuan,Tuberculosis,133,135.99
+2016,W.P. Labuan,Typhoid,4,4.09
+2016,W.P. Labuan,Typhus,-,-
+2016,W.P. Labuan,Viral encephalitis,-,-
